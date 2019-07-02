@@ -1,0 +1,3194 @@
+Attribute_Name,Code_Value,Code Description,Entity Type_Name,
+0BS_TRANSACTION_TYPE,I,"Insert sample new to SDWIS/FED
+",SAMPLE_SUMMARY_RESULT,
+0BS_TRANSACTION_TYPE,M,"Modify sample already existing in SDWIS/FED
+",SAMPLE_SUMMARY_RESULT,
+ACTIVE_INDICATOR_CODE,A,"Active
+",WATER_SYSTEM_FACILITY_CONTACT,
+ACTIVE_INDICATOR_CODE,A,"Active
+",WATER_SYS_LEGAL_ENTITY_CONTACT,
+ACTIVE_INDICATOR_CODE,A,"Active
+",LAB_LEGAL_ENTITY_ASGMT,
+ACTIVE_INDICATOR_CODE,A,"Active
+",PROGRAM_LEGAL_ENTITY_CONTACT,
+ACTIVE_INDICATOR_CODE,A,"Active
+",PROJECT_LEGAL_ENTITY_CONTACT,
+ACTIVE_INDICATOR_CODE,A,"Active
+",REGULATING_AGENCY_ASGMT,
+ACTIVE_INDICATOR_CODE,I,"Inactive
+",WATER_SYSTEM_FACILITY_CONTACT,
+ACTIVE_INDICATOR_CODE,I,"Inactive
+",WATER_SYS_LEGAL_ENTITY_CONTACT,
+ACTIVE_INDICATOR_CODE,I,"Inactive
+",LAB_LEGAL_ENTITY_ASGMT,
+ACTIVE_INDICATOR_CODE,I,"Inactive
+",PROGRAM_LEGAL_ENTITY_CONTACT,
+ACTIVE_INDICATOR_CODE,I,"Inactive
+",PROJECT_LEGAL_ENTITY_CONTACT,
+ACTIVE_INDICATOR_CODE,I,"Inactive
+",REGULATING_AGENCY_ASGMT,
+ACTIVITY_STATUS_CODE,A,"Active
+",WATER_SYSTEM_FACILITY_HISTORY,
+ACTIVITY_STATUS_CODE,A,"Active refers to a water system that is producing water on a regular basis (obtaining, treating, pumping, storing, or distributing).
+
+",WATER_SYSTEM,
+ACTIVITY_STATUS_CODE,A,"Active refers to a sampling point where sampling is occurring on a regular basis.
+
+",SAMPLING_POINT_HISTORY,
+ACTIVITY_STATUS_CODE,A,"Active
+",WSF_DELETIONS,
+ACTIVITY_STATUS_CODE,A,"Active
+",WATER_SYSTEM_FACILITY,
+ACTIVITY_STATUS_CODE,A,"Active refers to a sampling point where sampling is occurring on a regular basis.
+
+",SAMPLING_POINT,
+ACTIVITY_STATUS_CODE,A,"Active refers to a water system that is producing water on a regular basis (obtaining, treating, pumping, storing, or distributing).
+
+",WATER_SYSTEM_HISTORY,
+ACTIVITY_STATUS_CODE,D,"Deleted
+",WATER_SYSTEM,
+ACTIVITY_STATUS_CODE,D,"Deleted
+",WATER_SYSTEM_HISTORY,
+ACTIVITY_STATUS_CODE,I,"Inactive
+",WATER_SYSTEM_FACILITY_HISTORY,
+ACTIVITY_STATUS_CODE,I,"Inactive refers to a water system that is not an Active water system.  Such systems have discontinued operation.  A water system that has closed permanently is an obvious example of a system that would be an Inactive system.
+
+A water system that has closed temporarily, but for a substantial period of time, could be designated as Inactive by the State, but not necessarily so.  This decision depends upon State specific policy regarding such systems.
+
+",WATER_SYSTEM,
+ACTIVITY_STATUS_CODE,I,"Inactive sampling point.  Refers to a samplig point that has discontinued operation or has closed temporarily, but for a substantial period of time.  This decision depends upon State specific policy regarding such systems.
+
+",SAMPLING_POINT_HISTORY,
+ACTIVITY_STATUS_CODE,I,"Inactive
+",WSF_DELETIONS,
+ACTIVITY_STATUS_CODE,I,"Inactive
+",WATER_SYSTEM_FACILITY,
+ACTIVITY_STATUS_CODE,I,"Inactive sampling point.  Refers to a samplig point that has discontinued operation or has closed temporarily, but for a substantial period of time.  This decision depends upon State specific policy regarding such systems.
+
+",SAMPLING_POINT,
+ACTIVITY_STATUS_CODE,I,"Inactive refers to a water system that is not an Active water system.  Such systems have discontinued operation.  A water system that has closed permanently is an obvious example of a system that would be an Inactive system.
+
+A water system that has closed temporarily, but for a substantial period of time, could be designated as Inactive by the State, but not necessarily so.  This decision depends upon State specific policy regarding such systems.
+
+",WATER_SYSTEM_HISTORY,
+ACTIVITY_STATUS_CODE,M,"Merged refers to a water system that has been merged with another water system.  
+",WATER_SYSTEM,
+ACTIVITY_STATUS_CODE,M,"Merged refers to a water system that has been merged with another water system.  
+",WATER_SYSTEM_HISTORY,
+ACTIVITY_STATUS_CODE,P,"Proposed
+",WATER_SYSTEM_FACILITY_HISTORY,
+ACTIVITY_STATUS_CODE,P,"Refers to a proposed sampling point.
+",SAMPLING_POINT_HISTORY,
+ACTIVITY_STATUS_CODE,P,"Proposed refers to a water system that is considered a potential future water system to be regulated.
+",WATER_SYSTEM,
+ACTIVITY_STATUS_CODE,P,"Proposed
+",WSF_DELETIONS,
+ACTIVITY_STATUS_CODE,P,"Proposed
+",WATER_SYSTEM_FACILITY,
+ACTIVITY_STATUS_CODE,P,"Refers to a proposed sampling point.
+",SAMPLING_POINT,
+ACTIVITY_STATUS_CODE,P,"Proposed refers to a water system that is considered a potential future water system to be regulated.
+",WATER_SYSTEM_HISTORY,
+ANALYSIS_RESULT_UOM_CODE,%LUM,"Percent of luminance--(for measuring color)
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,%PUR,"Percent of purity--(for measuring color)
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,ADMIU,"American Dye Manufacturers Institute units -- (for measuring color)
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,AGGR,"Aggressive Index (for Corrosivity)
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,C,"Degrees Celsius
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,CM-1,"Total absorbance for ultraviolet light (a disinfectant)
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,COL/100ML,"Colonies per 100/ML
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,CT,"Contact Time (a disinfectant)
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,CU,"Color Units (for color)
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,F,"Degrees Fahrenheit
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,FTU,"Flavor Threshold Units (FTU) (for measuring Taste and Odor)
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,L/MG-CM,"Liter per Milligram-Centimeter
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,L/MG-M,"Liter per Milligram-Meter
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,LANG,"Langelier Index (for measuring Corrosivity)
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,LBS/CFT,"Pounds per cubic foot (for measuring density)
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,LBS/GAL,"Pounds per gallon (for measuring density)
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,MFL,"Millions of fibers per liter (MFL) (for measuring asbestos)
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,MG/L,"Milligrams per liter; AKA Parts Per Million (ppm).  Also a measure of disinfectant concentration.
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,MREM,"Millirems
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,MREMY,"Millirems per year
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,NG/L,"Nanograms per liter; AKA Parts per trillion (ppt)
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,NM,"Nanometers -- to measure color wave length
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,NTU,"Nephlometric Turbidity Units
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,OBSVNS,"Observations/field at 100 power
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,PCI/L,"Picocuries per liter
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,PH,"pH units (Parts Hydrogen - pH (0 - 14))
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,RATIO,"Ratio
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,SU,"Standard Units (for Color)
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,TON,"Threshold Odor Number (for odor)
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,UG/L,"Micrograms per liter; AKA Parts per Billion (ppb)
+",VIOLATION,
+ANALYSIS_RESULT_UOM_CODE,UMHO/CM,"Measurement unit for measuring Conductivity
+",VIOLATION,
+ANALYTE_TYPE_CODE,GC,"Group Contaminant
+",CDS_SAMPLE_RESULT,
+ANALYTE_TYPE_CODE,IOC,"Inorganic Chemical
+",CDS_SAMPLE_RESULT,
+ANALYTE_TYPE_CODE,MOR,"Microbiological Organism
+",CDS_SAMPLE_RESULT,
+ANALYTE_TYPE_CODE,OC,"Organic Chemical
+",CDS_SAMPLE_RESULT,
+ANALYTE_TYPE_CODE,OT,"Other
+",CDS_SAMPLE_RESULT,
+ANALYTE_TYPE_CODE,RA,"Radionuclide
+",CDS_SAMPLE_RESULT,
+ANALYTE_TYPE_CODE,RL,"Rule based 
+",CDS_SAMPLE_RESULT,
+ANALYTE_TYPE_CODE,WQ,"Water Quality
+",CDS_SAMPLE_RESULT,
+ASSAY_UOM_CODE,100ML,"100 milliliters
+",MICROBIAL_ANALYTICAL_RESULT,
+ASSAY_UOM_CODE,10ML,"10 milliliters
+",MICROBIAL_ANALYTICAL_RESULT,
+ASSAY_UOM_CODE,1ML,"1 milliliter
+",MICROBIAL_ANALYTICAL_RESULT,
+ASSAY_UOM_CODE,300ML,"300 milliliters
+",MICROBIAL_ANALYTICAL_RESULT,
+ASSAY_UOM_CODE,400ML,"400 milliliters
+",MICROBIAL_ANALYTICAL_RESULT,
+ASSAY_UOM_CODE,500ML,"500 milliliters
+",MICROBIAL_ANALYTICAL_RESULT,
+ASSAY_UOM_CODE,5ML,"5 milliliters
+",MICROBIAL_ANALYTICAL_RESULT,
+ASSAY_UOM_CODE,SAMP VOL,"Sample Volume
+",MICROBIAL_ANALYTICAL_RESULT,
+ASSAY_UOM_CODE,SLIDE,"Slide
+",MICROBIAL_ANALYTICAL_RESULT,
+AVAILABILITY_CODE,E,"Emergency Utilization
+",WATER_SYSTEM_FACILITY_HISTORY,
+AVAILABILITY_CODE,E,"Emergency Utilization
+",WSF_DELETIONS,
+AVAILABILITY_CODE,E,"Emergency Utilization
+",WATER_SYSTEM_FACILITY,
+AVAILABILITY_CODE,I,"Interim (eg. Peak) Utilization
+",WATER_SYSTEM_FACILITY_HISTORY,
+AVAILABILITY_CODE,I,"Interim (eg. Peak) Utilization
+",WSF_DELETIONS,
+AVAILABILITY_CODE,I,"Interim (eg. Peak) Utilization
+",WATER_SYSTEM_FACILITY,
+AVAILABILITY_CODE,O,"Other Utilization
+",WATER_SYSTEM_FACILITY_HISTORY,
+AVAILABILITY_CODE,O,"Other Utilization
+",WSF_DELETIONS,
+AVAILABILITY_CODE,O,"Other Utilization
+",WATER_SYSTEM_FACILITY,
+AVAILABILITY_CODE,P,"Permanent Utilization
+",WATER_SYSTEM_FACILITY_HISTORY,
+AVAILABILITY_CODE,P,"Permanent Utilization
+",WSF_DELETIONS,
+AVAILABILITY_CODE,P,"Permanent Utilization
+",WATER_SYSTEM_FACILITY,
+AVAILABILITY_CODE,S,"Seasonal Utilization
+",WATER_SYSTEM_FACILITY_HISTORY,
+AVAILABILITY_CODE,S,"Seasonal Utilization
+",WSF_DELETIONS,
+AVAILABILITY_CODE,S,"Seasonal Utilization
+",WATER_SYSTEM_FACILITY,
+AVERAGE_DURATION_TYPE_CODE,10Y,"Every 10 years
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,18M,"Every 18 Months
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,1T,"one time
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,2M,"Every 2 Months
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,2W,"Every 2 Weeks
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,2Y,"Every 2 years
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,3Y,"Every 3 Years
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,4H,"every 4 Hours
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,4Y,"Every 4 Years
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,5Y,"Every 5 years
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,6M,"every 6 Months
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,6Y,"Every 6 years
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,7Y,"Every 7 years
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,8Y,"Every 8 years
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,9Y,"Every 9 Years
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,DL,"Daily
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,HR,"Hourly
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,MN,"Monthly
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,NA,"Not Applicable - No Mon
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,QT,"Quarterly
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,WK,"Weekly
+",MCL_VALUE,
+AVERAGE_DURATION_TYPE_CODE,YR,"Yearly
+",MCL_VALUE,
+AVERAGE_TYPE_CODE,LRAA,"Locational Running Annual Average
+",MCL_VALUE,
+AVERAGE_TYPE_CODE,MPA,"Monitoring Period Average
+",MCL_VALUE,
+AVERAGE_TYPE_CODE,RAA,"Running Annual Average
+",MCL_VALUE,
+AVERAGE_TYPE_CODE,SAM,"Schedule Arithmetic Mean
+",MCL_VALUE,
+BEGIN_DATE_CODE,MN,"First and last dates of the calendar month for the monitoring period.
+",VIOLATION_PERIOD_RULE,
+BEGIN_DATE_CODE,MP,"First and last dates of monitoring period.
+",VIOLATION_PERIOD_RULE,
+BEGIN_DATE_CODE,NMP,"Next Monitoring period begin and end dates.
+",VIOLATION_PERIOD_RULE,
+BEGIN_DATE_CODE,QT,"First and last dates of the calendar quarter for the monitoring period.
+",VIOLATION_PERIOD_RULE,
+BEGIN_DATE_CODE,SS,"Sample Schedule begin and end dates.
+",VIOLATION_PERIOD_RULE,
+BEGIN_DATE_CODE,ST,"Same as State Period dates.
+",VIOLATION_PERIOD_RULE,
+BIN_STATUS,APVD,"Approved
+",TREATMENT_PLANT,
+BIN_STATUS,DENY,"Denied
+",TREATMENT_PLANT,
+BIN_STATUS,DTMD,"Determined
+",TREATMENT_PLANT,
+BIN_STATUS,NRQD,"Not Required
+",TREATMENT_PLANT,
+BIN_STATUS,RECV,"Received
+",TREATMENT_PLANT,
+BIN_STATUS,REQT,"Requested
+",TREATMENT_PLANT,
+BIN_STATUS,RESB,"Resubmitted
+",TREATMENT_PLANT,
+BIN_STATUS,RQD,"Required
+",TREATMENT_PLANT,
+BIN_STATUS,RVWD,"Reviewed
+",TREATMENT_PLANT,
+BIN_STATUS,URVW,"Under Review
+",TREATMENT_PLANT,
+BOTTOM_DEPTH_MEASURE_UOM,FT,"Feet
+",WELL_CASING,
+BOTTOM_DEPTH_MEASURE_UOM,IN,"Inches
+",WELL_CASING,
+CATEGORY_CODE,MCL,"MCL violation type - An MCL violation means a contaminant has been detected above maximum contaminant level consistently in drinking water.  MCL is the highest level of contamination that the U.S. Environmental Protection Agency (EPA) allows in drinking water.  MCLs ensure that drinking water does not pose a short-term or long-term health risk.
+",VIOLATION_TYPE,
+CATEGORY_CODE,MON,"Monitoring & Reporting violation type - A MON violation is a violation of a monitoring requirement or a reporting requirement associated with the monitoring.  A monitoring violation occurs when a public water system owner does not collect a required sample.  A reporting violation occurs when a public water system owner does not report the result(s) to the state from a sample that was collected.  When a public water system's owner does not collect a required sample, the violation is often referred to as a monitoring and reporting violation.
+",VIOLATION_TYPE,
+CATEGORY_CODE,PN,"Public Notice - A PN violation occurs when a public water system owner does not notify the public about another violation in a timely or appropriate fashion.
+",VIOLATION_TYPE,
+CATEGORY_CODE,RPT,"Reporting - A RPT violation occurs when public water system owners fail to report certain information. The RPT category does not include the failure to report analytical results, which falls under the MON category.
+
+",VIOLATION_TYPE,
+CATEGORY_CODE,SS,"Sanitary Survey - An SS violation occurs when a public water system owner does not complete a sanitary survey by a required date.
+",VIOLATION_TYPE,
+CATEGORY_CODE,TT,"Treatment Technique - A TT violation occurs when a public water system owner fails to apply a prescribed treatment technique by the allotted time.  Actions that are classified as treatment techniques are broad.  Examples of TT violations include: failure to employ a certified operator, inadequate removal of organic materials from raw water.
+",VIOLATION_TYPE,
+CATEGORY_CODE,V/E,"Variance/Exemption - A V/E violation is issued when a public water system owner has been granted a variance or an exemption with a schedule of activities and the PWS owner fails to carry out one or more of the scheduled activities on time.
+",VIOLATION_TYPE,
+CERTIFICATION_IND,N,"No
+",LAB_ANALYTE_METHOD_ASGMT,
+CERTIFICATION_IND,Y,"Yes
+",LAB_ANALYTE_METHOD_ASGMT,
+CLOSE_PARENTHESIS_CODE,),"A close parenthesis immediately follows the related monitoring condition, when sequentially processing all monitoring conditions that qualify a monitoring requirement.
+",MONITORING_REQMT_CONDITION_ASGMT,
+CODE_CHARACTERISTIC,D,"DATE
+",CODE,
+CODE_CHARACTERISTIC,N,"NUMERIC
+",CODE,
+CODE_CHARACTERISTIC,T,"CHARACTER
+",CODE,
+COLLECTION_INDICATOR_CODE,N,"No, indicating the Standard Method Code is not a sample collection method.
+",STANDARD_METHOD_NUMBER,
+COLLECTION_INDICATOR_CODE,Y,"Yes, indicating the Standard Method Code is a sample collection method.
+",STANDARD_METHOD_NUMBER,
+COMPLIANCE_PURPOS_INDICATOR_CODE,N,"No means sample taken for other than compliance purposes (e.g. Lab Performance)
+",SAMPLE_SUMMARY,
+COMPLIANCE_PURPOS_INDICATOR_CODE,N,"No means sample taken for other than compliance purposes (e.g. Lab Performance)
+",SAMPLE,
+COMPLIANCE_PURPOS_INDICATOR_CODE,Y,"Yes means for Compliance Purposes
+",SAMPLE_SUMMARY,
+COMPLIANCE_PURPOS_INDICATOR_CODE,Y,"Yes means for Compliance Purposes
+",SAMPLE,
+COMPLIANCE_SCHEDULE_STATUS_CODE,F,"Final
+",STANDARD_RESPONSE,
+COMPLIANCE_SCHEDULE_STATUS_CODE,P,"Proposed
+",STANDARD_RESPONSE,
+COMPLIANCE_SCHEDULE_STATUS_CODE,S,"Superceded
+",STANDARD_RESPONSE,
+CONFINEMENT_INDICATOR_CODE,N,"No
+",SCREEN,
+CONFINEMENT_INDICATOR_CODE,Y,"Yes
+",SCREEN,
+CONNECTION_TYPE_CODE,D,"Direct
+",TREATMENT_UNIT_FLOW,
+CONNECTION_TYPE_CODE,D,"Direct - a direct physical connection between two water system facilities.
+",WATER_SYS_FACILITY_FLOW,
+CONNECTION_TYPE_CODE,I,"Indirect
+",TREATMENT_UNIT_FLOW,
+CONNECTION_TYPE_CODE,I,"Indirect - an indirect connection between two water system facilities (eg. water is trucked from one water system facility to another). 
+",WATER_SYS_FACILITY_FLOW,
+CONTACT_TIME_STATUS,APVD,"Approved
+",TREATMENT_PLANT,
+CONTACT_TIME_STATUS,DENY,"Denied
+",TREATMENT_PLANT,
+CONTACT_TIME_STATUS,DTMD,"Determined
+",TREATMENT_PLANT,
+CONTACT_TIME_STATUS,NRQD,"Not Required
+",TREATMENT_PLANT,
+CONTACT_TIME_STATUS,RECV,"Received
+",TREATMENT_PLANT,
+CONTACT_TIME_STATUS,REQT,"Requested
+",TREATMENT_PLANT,
+CONTACT_TIME_STATUS,RESB,"Resubmitted
+",TREATMENT_PLANT,
+CONTACT_TIME_STATUS,RQD,"Required
+",TREATMENT_PLANT,
+CONTACT_TIME_STATUS,RVWD,"Reviewed
+",TREATMENT_PLANT,
+CONTACT_TIME_STATUS,URVW,"Under Review
+",TREATMENT_PLANT,
+CONTAMINANT_REQUIRED_CODE,MAY,"May have a contaminant code reported to EPA, but is not required.  If the violation type is associated to specific analytes, the list of optional analytes is restricted to those assigned.  If none is associated, there is no restriction.
+",VIOLATION_TYPE,
+CONTAMINANT_REQUIRED_CODE,MUST,"Must not have a contaminant code reported to EPA.
+",VIOLATION_TYPE,
+CONTAMINANT_REQUIRED_CODE,NOT,"Must have a contaminant code reported to EPA.  If the violation type is associated to specific analytes, the list is restricted to one of those assigned.  If none are assigned there is no restriction to the specific analyte that must be reported.
+",VIOLATION_TYPE,
+CONTROL_LEVEL_TYPE,95P,"95th percentile
+",FACILITY_ANALYTE_LEVEL,
+CONTROL_LEVEL_TYPE,AVG,"Average
+",FACILITY_ANALYTE_LEVEL,
+CONTROL_LEVEL_TYPE,MAX,"Maximum
+",FACILITY_ANALYTE_LEVEL,
+CONTROL_LEVEL_TYPE,MIN,"Minimum
+",FACILITY_ANALYTE_LEVEL,
+CONTROL_LEVEL_TYPE,RCB,"Reliably and Consistently Below the MCL - a level that supercedes a Trigger level - recorded as an Analyte Level, for a site and analyte that have been determined to be reliably and consistently below the MCL.
+",FACILITY_ANALYTE_LEVEL,
+CONTROL_LEVEL_TYPE,SCR,"Screening level - a level above which an analyte used as a screen triggers either a different frequency of monitoring for that analyte or monitoring for a different analyte.
+",FACILITY_ANALYTE_LEVEL,
+COUNT_TYPE,CFU,"Colonly Forming Units per milliliter
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_TYPE,COLONIES,"using Membrane Filter Method
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_TYPE,CYSTSC,"Cysts, calculated (for Giardia lamblia)
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_TYPE,CYSTSO,"Cysts, observed (for Giardia Lamblia)
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_TYPE,MPN,"Most Probable Number per 100ml
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_TYPE,OBSVNS,"Observations (for measuring other organisms such as Protozoa, Algae, Nematodes, Rotifers, Crustaceans, Insects).
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_TYPE,OCYSTSC,"Oocysts, calculated (for Cryptosporidium)
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_TYPE,OCYSTSO,"Oocysts, observed (for Cryptosporidium)
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_TYPE,PFU,"Plaque forming units per 100ml
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_TYPE,TUBES,"using Multiple Tube Method
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_UOM_CODE,100GAL,"100 gallons
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_UOM_CODE,100L,"100 liters
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_UOM_CODE,100ML,"100 milliliters
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_UOM_CODE,10ML,"10 milliliters
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_UOM_CODE,1ML,"1 milliliter
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_UOM_CODE,400GAL,"400 gallons
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_UOM_CODE,400ML,"400 milliliters
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_UOM_CODE,500ML,"500 milliliters
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_UOM_CODE,5ML,"5 milliliters
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_UOM_CODE,FLD100,"Field at 100 Power (used in conjunction with measuring numbers of Observations)
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_UOM_CODE,GAL,"Gallons
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_UOM_CODE,LITER,"Liters
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_UOM_CODE,ML,"Milliliters
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_UOM_CODE,SAMP VOL,"Sample Volume
+",MICROBIAL_ANALYTICAL_RESULT,
+COUNT_UOM_CODE,SLIDE,"Slide
+",MICROBIAL_ANALYTICAL_RESULT,
+D_ANALYTE_ASC_IND,,"No association
+",SAMPLING_PLAN,
+D_ANALYTE_ASC_IND,AG,"Analyte Group
+",SAMPLING_PLAN,
+D_ANALYTE_ASC_IND,AN,"Analyte
+",SAMPLING_PLAN,
+D_CATEGORY_FLOW_CODE,GE,"General Samples
+",SAMPLE,
+D_CATEGORY_FLOW_CODE,PB,"Lead and Copper
+",SAMPLE,
+D_CATEGORY_FLOW_CODE,TC,"Total Coliform
+",SAMPLE,
+D_DATA_ORIGIN_CODE,H,"Headquarters
+",SAMPLE,
+D_DATA_ORIGIN_CODE,H,"Headquarters
+",MILESTONE_EVENT,
+D_DATA_ORIGIN_CODE,H,"Headquarters
+",ENFORCEMENT_ACTION,
+D_DATA_ORIGIN_CODE,R,"Region
+",SAMPLE,
+D_DATA_ORIGIN_CODE,R,"Region
+",MILESTONE_EVENT,
+D_DATA_ORIGIN_CODE,R,"Region
+",ENFORCEMENT_ACTION,
+D_DATA_ORIGIN_CODE,S,"State
+",SAMPLE,
+D_DATA_ORIGIN_CODE,S,"State
+",MILESTONE_EVENT,
+D_DATA_ORIGIN_CODE,S,"State
+",ENFORCEMENT_ACTION,
+D_FED_PRIMARY_SOURCE_CODE,GU,"Groundwater UDI Surfacewater
+",WATER_SYSTEM,
+D_FED_PRIMARY_SOURCE_CODE,GU,"Groundwater UDI Surfacewater
+",WATER_SYSTEM_HISTORY,
+D_FED_PRIMARY_SOURCE_CODE,GUP,"Purchased Groundwater UDI Surface water
+",WATER_SYSTEM,
+D_FED_PRIMARY_SOURCE_CODE,GUP,"Purchased Groundwater UDI Surface water
+",WATER_SYSTEM_HISTORY,
+D_FED_PRIMARY_SOURCE_CODE,GW,"Ground water
+",WATER_SYSTEM_HISTORY,
+D_FED_PRIMARY_SOURCE_CODE,GW,"Ground water
+",WATER_SYSTEM,
+D_FED_PRIMARY_SOURCE_CODE,GWP,"Purchased ground water
+",WATER_SYSTEM_HISTORY,
+D_FED_PRIMARY_SOURCE_CODE,GWP,"Purchased ground water
+",WATER_SYSTEM,
+D_FED_PRIMARY_SOURCE_CODE,SW,"Surface water
+",WATER_SYSTEM_HISTORY,
+D_FED_PRIMARY_SOURCE_CODE,SW,"Surface water
+",WATER_SYSTEM,
+D_FED_PRIMARY_SOURCE_CODE,SWP,"Purchased surface water
+",WATER_SYSTEM_HISTORY,
+D_FED_PRIMARY_SOURCE_CODE,SWP,"Purchased surface water
+",WATER_SYSTEM,
+D_GENERATED_ID_SOURCE_CODE,M,"Milestone generated ID
+",MILESTONE_EVENT,
+D_GENERATED_ID_SOURCE_CODE,S,"system generated
+",SAMPLE,
+D_GENERATED_ID_SOURCE_CODE,T,"System generated or user specified Treatment ID
+",MILESTONE_EVENT,
+D_GENERATED_ID_SOURCE_CODE,U,"User specified milestone
+",MILESTONE_EVENT,
+D_GENERATED_ID_SOURCE_CODE,V,"User specified variance/exemption
+",MILESTONE_EVENT,
+D_GENERATED_ID_SOURCE_CODE,X,"Variance/Exemption generated ID
+",MILESTONE_EVENT,
+D_HISTORY_INDICATOR_CODE,C,"Current 
+",WATER_SYSTEM_HISTORY,
+D_HISTORY_INDICATOR_CODE,C,"Current 
+",WATER_SYSTEM,
+D_HISTORY_INDICATOR_CODE,H,"Historical 
+",WATER_SYSTEM_HISTORY,
+D_HISTORY_INDICATOR_CODE,H,"Historical 
+",WATER_SYSTEM,
+D_NEW_WS_FLAG,N,"No, indicating the Water System has more than the minimum data valued in TINWSYS.
+",WATER_SYSTEM,
+D_NEW_WS_FLAG,Y,"Yes, indicating the Water System has only the minimum data valued in TINWSYS.
+",WATER_SYSTEM,
+D_PWS_FEDERAL_TYPE_CODE,C,"Community water system
+",WATER_SYSTEM_HISTORY,
+D_PWS_FEDERAL_TYPE_CODE,C,"Community water system
+",WATER_SYSTEM,
+D_PWS_FEDERAL_TYPE_CODE,NC,"Non-community transient water system
+",WATER_SYSTEM_HISTORY,
+D_PWS_FEDERAL_TYPE_CODE,NC,"Non-community transient water system
+",WATER_SYSTEM,
+D_PWS_FEDERAL_TYPE_CODE,NP,"Non-public water system
+",WATER_SYSTEM_HISTORY,
+D_PWS_FEDERAL_TYPE_CODE,NP,"Non-public water system
+",WATER_SYSTEM,
+D_PWS_FEDERAL_TYPE_CODE,NTNC,"Non-community non-transient water system
+",WATER_SYSTEM_HISTORY,
+D_PWS_FEDERAL_TYPE_CODE,NTNC,"Non-community non-transient water system
+",WATER_SYSTEM,
+D_SOURCE_FLAG,N,"No
+",WATER_SYSTEM_FACILITY,
+D_SOURCE_FLAG,Y,"Yes
+",WATER_SYSTEM_FACILITY,
+D_STATE_PRIMARY_SOURCE_CODE,GU,"Groundwater UDI Surfacewater
+",WATER_SYSTEM,
+D_STATE_PRIMARY_SOURCE_CODE,GUP,"Purchased Groundwater UDI Surface water
+",WATER_SYSTEM,
+D_STATE_PRIMARY_SOURCE_CODE,GW,"Ground water
+",WATER_SYSTEM,
+D_STATE_PRIMARY_SOURCE_CODE,GWP,"Purchased ground water
+",WATER_SYSTEM,
+D_STATE_PRIMARY_SOURCE_CODE,SW,"Surface water
+",WATER_SYSTEM,
+D_STATE_PRIMARY_SOURCE_CODE,SWP,"Purchased surface water
+",WATER_SYSTEM,
+D_STATUS_CODE,P,"Potential
+",ENFORCEMENT_ACTION,
+D_STATUS_CODE,R,"Rejected
+",ENFORCEMENT_ACTION,
+D_STATUS_CODE,T,"Taken
+",ENFORCEMENT_ACTION,
+DATA_ORIGIN_CODE,H,"Headquarters
+",VIOLATION,
+DATA_ORIGIN_CODE,R,"Region
+",VIOLATION,
+DATA_ORIGIN_CODE,S,"State
+",VIOLATION,
+DATA_QUALITY_CODE,A,"Accepted.  The sample analytical result met the established QA acceptance criteria.
+",SAMPLE_SUMMARY_RESULT,
+DATA_QUALITY_CODE,A,"Accepted.  The sample analytical result met the established QA acceptance criteria.
+",SAMPLE_ANALYTICAL_RESULT,
+DATA_QUALITY_CODE,P,"Preliminary-- (or provisional) the sample result has been reported to a state agency informally (e.g. telephone report of Bacti positive result).
+
+States have expressed requirements to not forward a preliminary result to EPA until the result is validated by the lab and state regulatory agency. Note that telephone reporting to the EPA regional offices would continue as per current practice.",SAMPLE_SUMMARY_RESULT,
+DATA_QUALITY_CODE,P,"Preliminary-- (or provisional) the sample result has been reported to a state agency informally (e.g. telephone report of Bacti positive result).
+
+States have expressed requirements to not forward a preliminary result to EPA until the result is validated by the lab and state regulatory agency. Note that telephone reporting to the EPA regional offices would continue as per current practice.",SAMPLE_ANALYTICAL_RESULT,
+DATA_QUALITY_CODE,R,"Rejected. The sample analytical result did not meet the EPA QA acceptance criteria.
+",SAMPLE_SUMMARY_RESULT,
+DATA_QUALITY_CODE,R,"Rejected. The sample analytical result did not meet the EPA QA acceptance criteria.
+",SAMPLE_ANALYTICAL_RESULT,
+DATA_QUALITY_CODE,V,"Validated.   The sample analytical result is validated by the primacy agent.  Validation means that the sample analytical result meets the established data quality acceptance criteria.  In addition, the Water System received, evaluated, and accepted the sample analytical result and approved the result as valid data for use by the state or federal agencies. 
+",SAMPLE_SUMMARY_RESULT,
+DATA_QUALITY_CODE,V,"Validated.   The sample analytical result is validated by the primacy agent.  Validation means that the sample analytical result meets the established data quality acceptance criteria.  In addition, the Water System received, evaluated, and accepted the sample analytical result and approved the result as valid data for use by the state or federal agencies. 
+",SAMPLE_ANALYTICAL_RESULT,
+DATA_QUALITY_REASON_CODE,IF,"Instrument Failure
+",SAMPLE_ANALYTICAL_RESULT,
+DATA_QUALITY_REASON_CODE,LC,"Lab not certified
+",SAMPLE_ANALYTICAL_RESULT,
+DATA_QUALITY_REASON_CODE,LE,"Lab Error
+",SAMPLE_ANALYTICAL_RESULT,
+DATA_QUALITY_REASON_CODE,OT,"Other
+",SAMPLE_ANALYTICAL_RESULT,
+DATA_QUALITY_REASON_CODE,RC,"Requestor Cancelled
+",SAMPLE_ANALYTICAL_RESULT,
+DATA_QUALITY_REASON_CODE,WR,"Water System rejected the sample analytical result.
+",SAMPLE_ANALYTICAL_RESULT,
+DATA_TYPE,N,"numeric
+",SAMPLE_ANALYSIS_MEASURE_TYPE,
+DATA_TYPE,N,"numeric
+",SAMPLE_MEASURE_TYPE,
+DATA_TYPE,T,"text
+",SAMPLE_MEASURE_TYPE,
+DATA_TYPE,T,"text
+",SAMPLE_ANALYSIS_MEASURE_TYPE,
+DBM_GIARDIA_INACTIVATION_STATUS,APVD,"Approved
+",TREATMENT_PLANT,
+DBM_GIARDIA_INACTIVATION_STATUS,DENY,"Denied
+",TREATMENT_PLANT,
+DBM_GIARDIA_INACTIVATION_STATUS,DTMD,"Determined
+",TREATMENT_PLANT,
+DBM_GIARDIA_INACTIVATION_STATUS,NRQD,"Not Required
+",TREATMENT_PLANT,
+DBM_GIARDIA_INACTIVATION_STATUS,RECV,"Received
+",TREATMENT_PLANT,
+DBM_GIARDIA_INACTIVATION_STATUS,REQT,"Requested
+",TREATMENT_PLANT,
+DBM_GIARDIA_INACTIVATION_STATUS,RESB,"Resubmitted
+",TREATMENT_PLANT,
+DBM_GIARDIA_INACTIVATION_STATUS,RQD,"Required
+",TREATMENT_PLANT,
+DBM_GIARDIA_INACTIVATION_STATUS,RVWD,"Reviewed
+",TREATMENT_PLANT,
+DBM_GIARDIA_INACTIVATION_STATUS,URVW,"Under Review
+",TREATMENT_PLANT,
+DBM_VIRUS_INACTIVATION_STATUS,APVD,"Approved
+",TREATMENT_PLANT,
+DBM_VIRUS_INACTIVATION_STATUS,DENY,"Denied
+",TREATMENT_PLANT,
+DBM_VIRUS_INACTIVATION_STATUS,DTMD,"Determined
+",TREATMENT_PLANT,
+DBM_VIRUS_INACTIVATION_STATUS,NRQD,"Not Required
+",TREATMENT_PLANT,
+DBM_VIRUS_INACTIVATION_STATUS,RECV,"Received
+",TREATMENT_PLANT,
+DBM_VIRUS_INACTIVATION_STATUS,REQT,"Requested
+",TREATMENT_PLANT,
+DBM_VIRUS_INACTIVATION_STATUS,RESB,"Resubmitted
+",TREATMENT_PLANT,
+DBM_VIRUS_INACTIVATION_STATUS,RQD,"Required
+",TREATMENT_PLANT,
+DBM_VIRUS_INACTIVATION_STATUS,RVWD,"Reviewed
+",TREATMENT_PLANT,
+DBM_VIRUS_INACTIVATION_STATUS,URVW,"Under Review
+",TREATMENT_PLANT,
+DEF_SANITARY_SURVEY_CATEGORY,DS,"Distribution System
+",CDS_DEFICIENCY,
+DEF_SANITARY_SURVEY_CATEGORY,FI,"Financial
+",CDS_DEFICIENCY,
+DEF_SANITARY_SURVEY_CATEGORY,FW,"Finished Water Storage
+",CDS_DEFICIENCY,
+DEF_SANITARY_SURVEY_CATEGORY,MR,"Monitoring and Requirements (M&R)/Data Verification
+",CDS_DEFICIENCY,
+DEF_SANITARY_SURVEY_CATEGORY,OC,"Operator Compliance with State Requirements
+",CDS_DEFICIENCY,
+DEF_SANITARY_SURVEY_CATEGORY,OT,"Other
+",CDS_DEFICIENCY,
+DEF_SANITARY_SURVEY_CATEGORY,PU,"Pump/Pumping Facility & Control
+",CDS_DEFICIENCY,
+DEF_SANITARY_SURVEY_CATEGORY,SE,"Security
+",CDS_DEFICIENCY,
+DEF_SANITARY_SURVEY_CATEGORY,SM,"System Management & Operation
+",CDS_DEFICIENCY,
+DEF_SANITARY_SURVEY_CATEGORY,SO,"Source
+",CDS_DEFICIENCY,
+DEF_SANITARY_SURVEY_CATEGORY,TR,"Treatment
+",CDS_DEFICIENCY,
+DEF_SANITARY_SURVEY_CATEGORY,UK,"Unknown
+",CDS_DEFICIENCY,
+DEF_SEVERITY,MIN,"Minor
+",CDS_DEFICIENCY,
+DEF_SEVERITY,NON,"None
+",CDS_DEFICIENCY,
+DEF_SEVERITY,REC,"Recommendation made
+",CDS_DEFICIENCY,
+DEF_SEVERITY,SIG,"Significant
+",CDS_DEFICIENCY,
+DEFAULT_CATEGORY_CODE,DS,"Distribution System
+",DEFICIENCY_TYPE,
+DEFAULT_CATEGORY_CODE,FI,"Financial
+",DEFICIENCY_TYPE,
+DEFAULT_CATEGORY_CODE,FW,"Finished Water Storage
+",DEFICIENCY_TYPE,
+DEFAULT_CATEGORY_CODE,MR,"Monitoring and Requirements (M&R)/Data Verification
+",DEFICIENCY_TYPE,
+DEFAULT_CATEGORY_CODE,OC,"Operator Compliance with State Requirements
+",DEFICIENCY_TYPE,
+DEFAULT_CATEGORY_CODE,OT,"Other
+",DEFICIENCY_TYPE,
+DEFAULT_CATEGORY_CODE,PU,"Pump/Pumping Facility & Control
+",DEFICIENCY_TYPE,
+DEFAULT_CATEGORY_CODE,SE,"Security
+",DEFICIENCY_TYPE,
+DEFAULT_CATEGORY_CODE,SM,"System Management & Operation
+",DEFICIENCY_TYPE,
+DEFAULT_CATEGORY_CODE,SO,"Source
+",DEFICIENCY_TYPE,
+DEFAULT_CATEGORY_CODE,TR,"Treatment
+",DEFICIENCY_TYPE,
+DEFAULT_CATEGORY_CODE,UK,"Unknown
+",DEFICIENCY_TYPE,
+DEFAULT_METHOD_IND,N,"No
+",LAB_ANALYTE_METHOD_ASGMT,
+DEFAULT_METHOD_IND,Y,"Yes
+",LAB_ANALYTE_METHOD_ASGMT,
+DEFAULT_SEVERITY_CODE,MIN,"Minor
+",DEFICIENCY_TYPE,
+DEFAULT_SEVERITY_CODE,REC,"Recommendation made
+",DEFICIENCY_TYPE,
+DEFAULT_SEVERITY_CODE,SIG,"Significant
+",DEFICIENCY_TYPE,
+DELETE_FLAG,A,"ALLOW INDIVIDUAL VALUE DELETE
+",CODE,
+DELETE_FLAG,C,"CASCADE DELETE
+",CODE,
+DELETE_FLAG,D,"DISALLOW DELETE
+",CODE,
+DEVIATION_INDICATOR_CODE,N,"= No - no deviation exists
+",SAMPLE_SCHEDULE,
+DEVIATION_INDICATOR_CODE,Y,"= Yes - deviation exists
+",SAMPLE_SCHEDULE,
+DTF_FILE_STATUS,A,"Accepted into SDWIS/FED -  the stutus of a successfully executed instance of Migration to SDWIS/FED: Sampling (batch run) after the user has selected the record that represents the instance/batch run in the Post SDWIS/FED Batch Selection List and pressed the Accept pushbutton.  (Only batch runs of status P, that is, those that have successfully completed execution, are candidates for doing this.)  By ""accepting"" the batch run record, the user indicates to SDWIS/STATE that the sample results that were included in the ""accepted"" batch run have been accepted by SDWIS/FED.  This action sets the SDWIS/FED Status of those SDWIS/STATE sample results to A (Accepted).
+",SDWISFED_BATCH,
+DTF_FILE_STATUS,D,"Dry Run - the new status of a previously executed instance of Migration to SDWIS/FED: Sampling (batch run) that was set to P (pending) but has not subsequently been set to A (accepted) and has now automatically been set to D (dry run) as the result of a new instance/batch run of the execution of Migration to SDWIS/FED: Sampling.  When the instance/batch run record is set to D, the DTF file that was created as a result of that batch run is deleted.
+",SDWISFED_BATCH,
+DTF_FILE_STATUS,F,"Failed - The default status of a currently executing instance of Migration to SDWIS/FED: Sampling (batch run) which remains F until the instance/batch run has successfully completed execution at which time it is reset to P (pending).  If the instance/batch run terminates prior to completion, its status remains F (failed), thereby informing the user that the instance/batch run did not successfully complete execution. A failed batch run can be reexecuted.   
+",SDWISFED_BATCH,
+DTF_FILE_STATUS,P,"Pending Acceptance -  The status of a successfully completed instance of the execution of Migration to SDWIS/FED: Sampling (batch run).   Only batch runs of status P, that is, those that have successfully completed execution, are candidates for indicating that the SDWIS/STATE Sample Results that were included in the batch run have been accepted by SDWIS/FED (selecting the record in the Post SDWIS/FED Batch Selection List and pressing the Accept pushbutton).  
+",SDWISFED_BATCH,
+DY_AOP,FYR,"(Year Long) - Entered or calculated number of days operating equals 365.
+",WATER_SYSTEM_GROUP,
+DY_AOP,LSE,"(Long season, i.e., 180 days to 364 days) - Entered or calculated number of days operating is >179 and <365.
+",WATER_SYSTEM_GROUP,
+DY_AOP,LT60,"(0 to 59 days) - Entered or calculated number of days in operation is 0 to 59.
+",WATER_SYSTEM_GROUP,
+DY_AOP,SE,"(Seasonal) - Entered or calculated number of days operating is >0 and <365.
+",WATER_SYSTEM_GROUP,
+DY_AOP,SSE,"(Short season, i.e., 60 days to 179 days) - Entered or calculated number of days operating is >59 or <180.
+",WATER_SYSTEM_GROUP,
+FBR_ALTERNATE_RETURN_LOC_RQS,APVD,"Approved
+",TREATMENT_PLANT,
+FBR_ALTERNATE_RETURN_LOC_RQS,DENY,"Denied
+",TREATMENT_PLANT,
+FBR_ALTERNATE_RETURN_LOC_RQS,DTMD,"Determined
+",TREATMENT_PLANT,
+FBR_ALTERNATE_RETURN_LOC_RQS,NRQD,"Not Required
+",TREATMENT_PLANT,
+FBR_ALTERNATE_RETURN_LOC_RQS,RECV,"Received
+",TREATMENT_PLANT,
+FBR_ALTERNATE_RETURN_LOC_RQS,REQT,"Requested
+",TREATMENT_PLANT,
+FBR_ALTERNATE_RETURN_LOC_RQS,RESB,"Resubmitted
+",TREATMENT_PLANT,
+FBR_ALTERNATE_RETURN_LOC_RQS,RQD,"Required
+",TREATMENT_PLANT,
+FBR_ALTERNATE_RETURN_LOC_RQS,RVWD,"Reviewed
+",TREATMENT_PLANT,
+FBR_ALTERNATE_RETURN_LOC_RQS,URVW,"Under Review
+",TREATMENT_PLANT,
+FBR_CORRECTIVE_ACTION_RQS,APVD,"Approved
+",TREATMENT_PLANT,
+FBR_CORRECTIVE_ACTION_RQS,DENY,"Denied
+",TREATMENT_PLANT,
+FBR_CORRECTIVE_ACTION_RQS,DTMD,"Determined
+",TREATMENT_PLANT,
+FBR_CORRECTIVE_ACTION_RQS,NRQD,"Not Required
+",TREATMENT_PLANT,
+FBR_CORRECTIVE_ACTION_RQS,RECV,"Received
+",TREATMENT_PLANT,
+FBR_CORRECTIVE_ACTION_RQS,REQT,"Requested
+",TREATMENT_PLANT,
+FBR_CORRECTIVE_ACTION_RQS,RESB,"Resubmitted
+",TREATMENT_PLANT,
+FBR_CORRECTIVE_ACTION_RQS,RQD,"Required
+",TREATMENT_PLANT,
+FBR_CORRECTIVE_ACTION_RQS,RVWD,"Reviewed
+",TREATMENT_PLANT,
+FBR_CORRECTIVE_ACTION_RQS,URVW,"Under Review
+",TREATMENT_PLANT,
+FBR_SCHEMATIC_STATUS,APVD,"Approved
+",TREATMENT_PLANT,
+FBR_SCHEMATIC_STATUS,DENY,"Denied
+",TREATMENT_PLANT,
+FBR_SCHEMATIC_STATUS,DTMD,"Determined
+",TREATMENT_PLANT,
+FBR_SCHEMATIC_STATUS,N,"No -  A filter backwash schematic is not required.
+
+",TREATMENT_PLANT,
+FBR_SCHEMATIC_STATUS,NRQD,"Not Required
+",TREATMENT_PLANT,
+FBR_SCHEMATIC_STATUS,RECV,"Received
+",TREATMENT_PLANT,
+FBR_SCHEMATIC_STATUS,REQT,"Requested
+",TREATMENT_PLANT,
+FBR_SCHEMATIC_STATUS,RESB,"Resubmitted
+",TREATMENT_PLANT,
+FBR_SCHEMATIC_STATUS,RQD,"Required
+",TREATMENT_PLANT,
+FBR_SCHEMATIC_STATUS,RVWD,"Reviewed
+",TREATMENT_PLANT,
+FBR_SCHEMATIC_STATUS,URVW,"Under Review
+",TREATMENT_PLANT,
+FBR_SCHEMATIC_STATUS,Y,"Yes - A filter backwash schematic is required.
+",TREATMENT_PLANT,
+FED_REPORT_PERIOD_TYPE,,"(For state-defined violation types)
+",VIOLATION_TYPE,
+FED_REPORT_PERIOD_TYPE,CP,"The Compliance Period Begin and End Date should be reported to the SDWIS/FED for any violation using this violation type.
+",VIOLATION_TYPE,
+FED_REPORT_PERIOD_TYPE,QT,"The Violation Period Begin Date should be reported to SDWIS/FED for any violation using this Violation Type.
+",VIOLATION_TYPE,
+FED_REPORT_PERIOD_TYPE,RA,"Running Annual Average Period
+",VIOLATION_TYPE,
+FED_REPORT_PERIOD_TYPE,VP,"The Violation Period Beign Date should be preported to SDWIS/FED for any violation using this Violation Type.
+",VIOLATION_TYPE,
+FLOW_RATE_UOM_CODE,ACF,"Acre Feet
+",WSF_FLOW_RATE,
+FLOW_RATE_UOM_CODE,ACF,"Acre Feet
+",TREATMENT_UNIT_FLOW_RATE,
+FLOW_RATE_UOM_CODE,ACF,"Acre Feet
+",WS_FLOW_RATE,
+FLOW_RATE_UOM_CODE,FTPM,"Feet per Minute
+",TREATMENT_UNIT_FLOW_RATE,
+FLOW_RATE_UOM_CODE,GAL,"Gallons
+",WSF_FLOW_RATE,
+FLOW_RATE_UOM_CODE,GAL,"Gallons
+",TREATMENT_UNIT_FLOW_RATE,
+FLOW_RATE_UOM_CODE,GAL,"Gallons
+",WS_FLOW_RATE,
+FLOW_RATE_UOM_CODE,GPD,"Gallons per Day
+",WSF_FLOW_RATE,
+FLOW_RATE_UOM_CODE,GPD,"Gallons per Day
+",TREATMENT_UNIT_FLOW_RATE,
+FLOW_RATE_UOM_CODE,GPD,"Gallons Per Day
+",WS_FLOW_RATE,
+FLOW_RATE_UOM_CODE,GPM,"Gallons per Minute
+",WSF_FLOW_RATE,
+FLOW_RATE_UOM_CODE,GPM,"Gallons per Min
+",TREATMENT_UNIT_FLOW_RATE,
+FLOW_RATE_UOM_CODE,GPM,"Gallons Per Min
+",WS_FLOW_RATE,
+FLOW_RATE_UOM_CODE,GPMPF,"Gallons per Minute per Foot
+",WSF_FLOW_RATE,
+FLOW_RATE_UOM_CODE,GPMPF,"Gallons per Minute per Foot
+",TREATMENT_UNIT_FLOW_RATE,
+FLOW_RATE_UOM_CODE,GPMPF,"Gallons Per Minute Per Foot
+",WS_FLOW_RATE,
+FLOW_RATE_UOM_CODE,LBPF2,"pounds (LB) per Square Feet
+",WSF_FLOW_RATE,
+FLOW_RATE_UOM_CODE,LBPF2,"pounds (LB) per Square Feet
+",TREATMENT_UNIT_FLOW_RATE,
+FLOW_RATE_UOM_CODE,LBPF2,"pounds (LB) Per Square Feet
+",WS_FLOW_RATE,
+FLOW_RATE_UOM_CODE,LBPMG,"pounds (LB) per Million Gallons
+",WSF_FLOW_RATE,
+FLOW_RATE_UOM_CODE,LBPMG,"pounds (LB) per Million Gallons
+",TREATMENT_UNIT_FLOW_RATE,
+FLOW_RATE_UOM_CODE,LBPMG,"pounds (LB) Per Million Gallons
+",WS_FLOW_RATE,
+FLOW_RATE_UOM_CODE,MGD,"Million Gallons per Day
+",WSF_FLOW_RATE,
+FLOW_RATE_UOM_CODE,MGD,"Million Gallons per Day
+",TREATMENT_UNIT_FLOW_RATE,
+FLOW_RATE_UOM_CODE,MGD,"Million Gallons Per Day
+",WS_FLOW_RATE,
+FLOW_RATE_UOM_CODE,MGDPF2,"Million Gallons per Day per Square Feet
+",WSF_FLOW_RATE,
+FLOW_RATE_UOM_CODE,MGDPF2,"Million Gallons per Day per Square Feet
+",TREATMENT_UNIT_FLOW_RATE,
+FLOW_RATE_UOM_CODE,MGDPF2,"Million Gallons Per Day Per Square Feet
+",WS_FLOW_RATE,
+FLOW_RATE_UOM_CODE,MGL,"Million Gallons
+",WSF_FLOW_RATE,
+FLOW_RATE_UOM_CODE,MGL,"Million Gallons
+",TREATMENT_UNIT_FLOW_RATE,
+FLOW_RATE_UOM_CODE,MGL,"Million Gallons
+",WS_FLOW_RATE,
+FLOW_RATE_UOM_CODE,MGM,"Million Gallons per Minute
+",WSF_FLOW_RATE,
+FLOW_RATE_UOM_CODE,MGM,"Million Gallons per Min
+",TREATMENT_UNIT_FLOW_RATE,
+FLOW_RATE_UOM_CODE,MGM,"Million Gallons Per Min
+",WS_FLOW_RATE,
+FLOW_RATE_UOM_CODE,RPM,"Revolutions per Minute
+",WSF_FLOW_RATE,
+FLOW_RATE_UOM_CODE,RPM,"Revolutions per Minute
+",TREATMENT_UNIT_FLOW_RATE,
+FLOW_RATE_UOM_CODE,RPM,"Revolutions Per Minute
+",WS_FLOW_RATE,
+FREQUENCY_PERIOD,DY,"Day(s)  
+",SITE_VISIT,
+FREQUENCY_PERIOD,MN,"Month(s)
+",SITE_VISIT,
+FREQUENCY_PERIOD,WK,"Week(s)
+",SITE_VISIT,
+FREQUENCY_PERIOD,YR,"Year(s)
+",SITE_VISIT,
+GROUP_TYPE,DY,"Dynamic
+",WATER_SYSTEM_GROUP,
+GROUP_TYPE,JU,"Jurisdictional
+",WATER_SYSTEM_GROUP,
+GROUP_TYPE,PR,"Private
+",WATER_SYSTEM_GROUP,
+GROUP_TYPE,ST,"Static
+",WATER_SYSTEM_GROUP,
+HIGHEST_DEFICIENCY,MIN,"Minimum
+",SITE_VISIT,
+HIGHEST_DEFICIENCY,NON,"No deficiencies
+",SITE_VISIT,
+HIGHEST_DEFICIENCY,REC,"Recommendation
+",SITE_VISIT,
+HIGHEST_DEFICIENCY,SIG,"Significant
+",SITE_VISIT,
+INDICATOR_VALUE_CODE,ADQTE,"adequate
+",WSF_INDICATOR,
+INDICATOR_VALUE_CODE,ADQTE,"Adequate
+",TREATMENT_UNIT_INDICATOR,
+INDICATOR_VALUE_CODE,ADQTE,"Adequate
+",WS_INDICATOR,
+INDICATOR_VALUE_CODE,AVBL,"available
+",WSF_INDICATOR,
+INDICATOR_VALUE_CODE,AVBL,"Available
+",WS_INDICATOR,
+INDICATOR_VALUE_CODE,AVG,"average
+",WSF_INDICATOR,
+INDICATOR_VALUE_CODE,AVG,"Average
+",TREATMENT_UNIT_INDICATOR,
+INDICATOR_VALUE_CODE,AVG,"Average
+",WS_INDICATOR,
+INDICATOR_VALUE_CODE,AVLBL,"Available
+",TREATMENT_UNIT_INDICATOR,
+INDICATOR_VALUE_CODE,INSFT,"insufficient
+",WSF_INDICATOR,
+INDICATOR_VALUE_CODE,INSFT,"Insufficient
+",TREATMENT_UNIT_INDICATOR,
+INDICATOR_VALUE_CODE,INSFT,"Insufficient
+",WS_INDICATOR,
+INDICATOR_VALUE_CODE,NO,"no
+",WSF_INDICATOR,
+INDICATOR_VALUE_CODE,NOABL,"not available
+",WSF_INDICATOR,
+INDICATOR_VALUE_CODE,NOABL,"Not Available
+",WS_INDICATOR,
+INDICATOR_VALUE_CODE,NTAVL,"Not Available
+",TREATMENT_UNIT_INDICATOR,
+INDICATOR_VALUE_CODE,POOR,"poor
+",WSF_INDICATOR,
+INDICATOR_VALUE_CODE,PRFC,"Perfect
+",TREATMENT_UNIT_INDICATOR,
+INDICATOR_VALUE_CODE,PRFCT,"perfect
+",WSF_INDICATOR,
+INDICATOR_VALUE_CODE,PRFCT,"Perfect
+",WS_INDICATOR,
+INDICATOR_VALUE_CODE,SUPR,"superior
+",WSF_INDICATOR,
+INDICATOR_VALUE_CODE,SUPR,"Superior
+",TREATMENT_UNIT_INDICATOR,
+INDICATOR_VALUE_CODE,SUPR,"Superior
+",WS_INDICATOR,
+INDICATOR_VALUE_CODE,UNK,"unknown
+",WSF_INDICATOR,
+INDICATOR_VALUE_CODE,UNK,"Unknown
+",TREATMENT_UNIT_INDICATOR,
+INDICATOR_VALUE_CODE,UNK,"Unknown
+",WS_INDICATOR,
+INDICATOR_VALUE_CODE,YES,"yes
+",WSF_INDICATOR,
+INDIV_FILTER_MNTRNG_REQD_FLAG,N,"No
+",FACILITY_ANALYTE_LEVEL,
+INDIV_FILTER_MNTRNG_REQD_FLAG,Y,"Yes
+",FACILITY_ANALYTE_LEVEL,
+LEAD_AND_COPPER_SAMPLE_TYPE_CODE,ATS,"At Source
+",SAMPLE,
+LEAD_AND_COPPER_SAMPLE_TYPE_CODE,FLS,"flushed
+",SAMPLE,
+LEAD_AND_COPPER_SAMPLE_TYPE_CODE,FSD,"first draw
+",SAMPLE,
+LEAD_AND_COPPER_SAMPLE_TYPE_CODE,LSL,"lead service line
+",SAMPLE,
+LEAD_AND_COPPER_TIER_LEVEL_TEXT,1,"single family > 1982
+",SAMPLING_POINT_HISTORY,
+LEAD_AND_COPPER_TIER_LEVEL_TEXT,1,"single family > 1982
+",SAMPLING_POINT,
+LEAD_AND_COPPER_TIER_LEVEL_TEXT,2,"multiple family > 1982
+",SAMPLING_POINT_HISTORY,
+LEAD_AND_COPPER_TIER_LEVEL_TEXT,2,"multiple family > 1982
+",SAMPLING_POINT,
+LEAD_AND_COPPER_TIER_LEVEL_TEXT,3,"single family < 1983
+",SAMPLING_POINT_HISTORY,
+LEAD_AND_COPPER_TIER_LEVEL_TEXT,3,"single family < 1983
+",SAMPLING_POINT,
+LEAD_AND_COPPER_TIER_LEVEL_TEXT,N,"Non Tier
+",SAMPLING_POINT_HISTORY,
+LEAD_AND_COPPER_TIER_LEVEL_TEXT,N,"Non Tier
+",SAMPLING_POINT,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,CU<83,"Single family structures that contain copper pipes with lead solder installed before 1983.
+",SAMPLING_POINT_HISTORY,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,CU<83,"Single family structures that contain copper pipes with lead solder installed before 1983.
+",SAMPLING_POINT,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,CU<83N,"CU<83 Non-Res
+",SAMPLING_POINT_HISTORY,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,CU<83N,"CU<83 Non-Res
+",SAMPLING_POINT,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,CU>82M,"Multiple family structures that contain copper pipes with lead solder installed after 1982.
+",SAMPLING_POINT_HISTORY,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,CU>82M,"Multiple family structures that contain copper pipes with lead solder installed after 1982.
+",SAMPLING_POINT,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,CU>82N,"CU>82 Non-Res
+",SAMPLING_POINT_HISTORY,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,CU>82N,"CU>82 Non-Res
+",SAMPLING_POINT,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,CU>82S,"Single family structures that contain copper pipes with lead solder installed after 1982.
+",SAMPLING_POINT_HISTORY,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,CU>82S,"Single family structures that contain copper pipes with lead solder installed after 1982.
+",SAMPLING_POINT,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,LSLM,"Multiple family structures served by a lead service line.
+",SAMPLING_POINT_HISTORY,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,LSLM,"Multiple family structures served by a lead service line.
+",SAMPLING_POINT,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,LSL-NR,"LSL Non-Res
+",SAMPLING_POINT_HISTORY,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,LSL-NR,"LSL Non-Res
+",SAMPLING_POINT,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,LSLS,"Single family structures served by a lead service line.
+",SAMPLING_POINT_HISTORY,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,LSLS,"Single family structures served by a lead service line.
+",SAMPLING_POINT,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,NT-M,"Non-Tier, SFR
+",SAMPLING_POINT_HISTORY,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,NT-M,"Non-Tier, SFR
+",SAMPLING_POINT,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,NT-NR,"Non-Tier, Non-Res
+",SAMPLING_POINT_HISTORY,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,NT-NR,"Non-Tier, Non-Res
+",SAMPLING_POINT,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,NT-S,"Non-Tier, MFR
+",SAMPLING_POINT_HISTORY,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,NT-S,"Non-Tier, MFR
+",SAMPLING_POINT,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,PBPM,"Multiple family structures containing lead pipes.
+",SAMPLING_POINT_HISTORY,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,PBPM,"Multiple family structures containing lead pipes.
+",SAMPLING_POINT,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,PBP-NR,"Pb Pipe Non-Res
+",SAMPLING_POINT_HISTORY,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,PBP-NR,"Pb Pipe Non-Res
+",SAMPLING_POINT,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,PBPS,"Single family structures containing lead pipes.
+",SAMPLING_POINT,
+LEAD_AND_COPPER_TIER_TYPE_TEXT,PBPS,"Single family structures containing lead pipes.
+",SAMPLING_POINT_HISTORY,
+LESS_THAN_CODE,MDL,"The lab reported the analytical result was less than the METHOD DETECTION LIMIT.
+
+",SAMPLE_ANALYTICAL_RESULT,
+LESS_THAN_CODE,MRL,"The lab reported the analytical result was less than the MINIMUM REPORTING LEVEL.
+",SAMPLE_ANALYTICAL_RESULT,
+LESS_THAN_INDICATOR,Y,"The result  is ""less than"" the Lab Reporting Limit or ""less than"" the Regulatory Minimum Reporting Limit.
+",SAMPLE_ANALYTICAL_RESULT,
+LEVEL_COMPLIANCE_INDICATOR,N,"No - Level Compliance not met
+",MDBP_SUMMARY,
+LEVEL_COMPLIANCE_INDICATOR,Y,"Yes - Level Compliance met
+",MDBP_SUMMARY,
+MAR_COUNT_TYPE,CFU,"Colonly Forming Units per milliliter
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_TYPE,COLONIES,"using Membrane Filter Method
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_TYPE,CYSTSC,"Cysts, calculated (for Giardia lamblia)
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_TYPE,CYSTSO,"Cysts, observed (for Giardia Lamblia)
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_TYPE,MPN,"Most Probable Number per 100ml
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_TYPE,OBSVNS,"Observations (for measuring other organisms such as Protozoa, Algae, Nematodes, Rotifers, Crustaceans, Insects).
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_TYPE,OCYSTSC,"Oocysts, calculated (for Cryptosporidium)
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_TYPE,OCYSTSO,"Oocysts, observed (for Cryptosporidium)
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_TYPE,PFU,"Plaque forming units per 100ml
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_TYPE,TUBES,"using Multiple Tube Method
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_UOM_CODE,100GAL,"100 gallons
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_UOM_CODE,100L,"100 liters
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_UOM_CODE,100ML,"100 milliliters
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_UOM_CODE,10ML,"10 milliliters
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_UOM_CODE,1ML,"1 milliliter
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_UOM_CODE,400GAL,"400 gallons
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_UOM_CODE,400ML,"400 milliliters
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_UOM_CODE,500ML,"500 milliliters
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_UOM_CODE,5ML,"5 milliliters
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_UOM_CODE,FLD100,"Field at 100 Power (used in conjunction with measuring numbers of Observations)
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_UOM_CODE,GAL,"Gallons
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_UOM_CODE,LITER,"Liters
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_UOM_CODE,ML,"Milliliters
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_UOM_CODE,SAMP VOL,"Sample Volume
+",CDS_SAMPLE_RESULT,
+MAR_COUNT_UOM_CODE,SLIDE,"Slide
+",CDS_SAMPLE_RESULT,
+MAR_PRESENECE_INDICATOR_CODE,A,"Microbes absent
+",CDS_SAMPLE_RESULT,
+MAR_PRESENECE_INDICATOR_CODE,P,"Microbes present
+",CDS_SAMPLE_RESULT,
+MCL_COMPLIANCE_METHOD,MPA,"Monitoring Period Average
+",ANALYTE_LEVEL_RULE_ASGMT,
+MCL_COMPLIANCE_METHOD,MPA,"Monitoring Period Average
+",MONITORING_PERIOD_AVERAGE,
+MCL_COMPLIANCE_METHOD,RAA,"Running Annual Average
+",ANALYTE_LEVEL_RULE_ASGMT,
+MCL_COMPLIANCE_METHOD,RAA,"Running Annual Average
+",MONITORING_PERIOD_AVERAGE,
+MCL_VIOLATED_UOM_CODE,%LUM,"Percent of luminance--(for measuring color)
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,%PUR,"Percent of purity--(for measuring color)
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,ADMIU,"American Dye Manufacturers Institute units -- (for measuring color)
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,AGGR,"Aggressive Index (for Corrosivity)
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,C,"Degrees Celsius
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,CM-1,"Total absorbance for ultraviolet light (a disinfectant)
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,COL/100ML,"Colonies per 100/ML
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,CT,"Contact Time (a disinfectant)
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,CU,"Color Units (for color)
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,F,"Degrees Fahrenheit
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,FTU,"Flavor Threshold Units (FTU) (for measuring Taste and Odor)
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,L/MG-CM,"Liter per Milligram-Centimeter
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,L/MG-M,"Liter per Milligram-Meter
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,LANG,"Langelier Index (for measuring Corrosivity)
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,LBS/CFT,"Pounds per cubic foot (for measuring density)
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,LBS/GAL,"Pounds per gallon (for measuring density)
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,MFL,"Millions of fibers per liter (MFL) (for measuring asbestos)
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,MG/L,"Milligrams per liter; AKA Parts Per Million (ppm).  Also a measure of disinfectant concentration.
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,MREM,"Millirems
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,MREMY,"Millirems per year
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,NG/L,"Nanograms per liter; AKA Parts per trillion (ppt)
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,NM,"Nanometers -- to measure color wave length
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,NTU,"Nephlometric Turbidity Units
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,OBSVNS,"Observations/field at 100 power
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,PCI/L,"Picocuries per liter
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,PH,"pH units (Parts Hydrogen - pH (0 - 14))
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,RATIO,"Ratio
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,SU,"Standard Units (for Color)
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,TON,"Threshold Odor Number (for odor)
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,UG/L,"Micrograms per liter; AKA Parts per Billion (ppb)
+",VIOLATION,
+MCL_VIOLATED_UOM_CODE,UMHO/CM,"Measurement unit for measuring Conductivity
+",VIOLATION,
+MDBP_SUMMARY_CHECK_FLAG,N,"No
+",FACILITY_ANALYTE_LEVEL,
+MDBP_SUMMARY_CHECK_FLAG,Y,"Yes
+",FACILITY_ANALYTE_LEVEL,
+MEASURE_LEVEL_TYPE_CODE,MRDG,"Maximum Residual Disinfectant Level Goal
+",ANALYTE_LEVEL_RULE_ASGMT,
+MEASURE_LEVEL_TYPE_CODE,MRDL,"Maximum Residual Disinfectant Level
+",ANALYTE_LEVEL_RULE_ASGMT,
+MEASURE_LEVEL_TYPE_CODE,PLR,"Performance Level Requirement, also known as Treatment Technique level, performance standard, quasi-mcl.  This is the minimum or maximum acceptable range of a particular chemical, e.g. minimum chlorine residual.  SWTR
+",ANALYTE_LEVEL_RULE_ASGMT,
+MEASURE_LEVEL_TYPE_CODE,PQL,"Practical Quantitative Level - Nationally established measuring level that represents the lowest level laboratories can consistently and reliably resolve for a given analyte.
+
+Source: SBS JAD",ANALYTE_LEVEL_RULE_ASGMT,
+MEASURE_LEVEL_TYPE_CODE,RMDL,"Regulated Minimum Detection Limit -- the limit established by a Rule for an analyte.
+",ANALYTE_LEVEL_RULE_ASGMT,
+MEASURE_UOM_CODE,ACF,"Acre Feet
+",WSF_MEASURE,
+MEASURE_UOM_CODE,ACF,"Acre Feet
+",TREATMENT_UNIT_MEASURE,
+MEASURE_UOM_CODE,ACF,"Acre Feet
+",WS_MEASURE,
+MEASURE_UOM_CODE,CC,"Cubic Centimeters
+",WSF_MEASURE,
+MEASURE_UOM_CODE,CC,"Cubic Centimeters
+",TREATMENT_UNIT_MEASURE,
+MEASURE_UOM_CODE,CC,"Cubic Centimeters
+",WS_MEASURE,
+MEASURE_UOM_CODE,CFT,"Cubic Feet
+",WSF_MEASURE,
+MEASURE_UOM_CODE,CFT,"Cubic Feet
+",TREATMENT_UNIT_MEASURE,
+MEASURE_UOM_CODE,CFT,"Cubic Feet
+",WS_MEASURE,
+MEASURE_UOM_CODE,FT,"Feet
+",WSF_MEASURE,
+MEASURE_UOM_CODE,FT,"Feet
+",TREATMENT_UNIT_MEASURE,
+MEASURE_UOM_CODE,FT,"Feet
+",WS_MEASURE,
+MEASURE_UOM_CODE,GAL,"Gallons
+",WSF_MEASURE,
+MEASURE_UOM_CODE,GAL,"Gallons
+",TREATMENT_UNIT_MEASURE,
+MEASURE_UOM_CODE,GAL,"Gallons
+",WS_MEASURE,
+MEASURE_UOM_CODE,HRS,"Hours
+",WSF_MEASURE,
+MEASURE_UOM_CODE,HRS,"Hours
+",TREATMENT_UNIT_MEASURE,
+MEASURE_UOM_CODE,HRS,"Hours
+",WS_MEASURE,
+MEASURE_UOM_CODE,IN,"Inches
+",WSF_MEASURE,
+MEASURE_UOM_CODE,IN,"Inches
+",TREATMENT_UNIT_MEASURE,
+MEASURE_UOM_CODE,IN,"Inches
+",WS_MEASURE,
+MEASURE_UOM_CODE,MIL,"Miles
+",WSF_MEASURE,
+MEASURE_UOM_CODE,MIL,"Miles
+",TREATMENT_UNIT_MEASURE,
+MEASURE_UOM_CODE,MIL,"Miles
+",WS_MEASURE,
+MEASURE_UOM_CODE,MIN,"Minutes
+",WSF_MEASURE,
+MEASURE_UOM_CODE,MIN,"Minutes
+",TREATMENT_UNIT_MEASURE,
+MEASURE_UOM_CODE,MIN,"Minutes
+",WS_MEASURE,
+MEASURE_UOM_CODE,MML,"Mg*Min/L
+",WSF_MEASURE,
+MEASURE_UOM_CODE,MML,"Mg*Min/L
+",TREATMENT_UNIT_MEASURE,
+MEASURE_UOM_CODE,MML,"Mg*Min/L
+",WS_MEASURE,
+MEASURE_UOM_CODE,SEC,"Seconds
+",WSF_MEASURE,
+MEASURE_UOM_CODE,SEC,"Seconds
+",TREATMENT_UNIT_MEASURE,
+MEASURE_UOM_CODE,SEC,"Seconds
+",WS_MEASURE,
+MEASURE_UOM_CODE,YD,"Yards
+",WSF_MEASURE,
+MEASURE_UOM_CODE,YD,"Yards
+",TREATMENT_UNIT_MEASURE,
+MEASURE_UOM_CODE,YD,"Yards
+",WS_MEASURE,
+METER_TYPE_CODE,ME,"Metered
+",SERVICE_CONNECTION_CATEGORY,
+METER_TYPE_CODE,MU,"Metered and Unmetered
+",SERVICE_CONNECTION_CATEGORY,
+METER_TYPE_CODE,UM,"Unmetered
+",SERVICE_CONNECTION_CATEGORY,
+METER_TYPE_CODE,UN,"Unknown
+",SERVICE_CONNECTION_CATEGORY,
+MICRO_RSLT_INDICATOR,N,"No
+",SAMPLE_ANALYTICAL_RESULT,
+MICRO_RSLT_INDICATOR,Y,"Yes
+",SAMPLE_ANALYTICAL_RESULT,
+MICROBE_UOM_CODE,1,"1 liter
+",SAMPLE,
+MICROBE_UOM_CODE,100,"100 milliliters
+",SAMPLE,
+MICROBE_UOM_CODE,300,"300 milliliters
+",SAMPLE,
+MICROBE_UOM_CODE,400,"400 milliliters
+",SAMPLE,
+MICROBE_UOM_CODE,500,"500 milliliters
+",SAMPLE,
+MINIMUM_REPETITION_UNIT_CODE,DL,"Daily
+",MONITORING_REQUIREMNT,
+MINIMUM_REPETITION_UNIT_CODE,HR,"Hourly
+",MONITORING_REQUIREMNT,
+MINIMUM_REPETITION_UNIT_CODE,MN,"Monthly
+",MONITORING_REQUIREMNT,
+MINIMUM_REPETITION_UNIT_CODE,QT,"Quarterly
+",MONITORING_REQUIREMNT,
+MINIMUM_REPETITION_UNIT_CODE,WK,"Weekly
+",MONITORING_REQUIREMNT,
+MINIMUM_REPETITION_UNIT_CODE,YR,"Yearly
+",MONITORING_REQUIREMNT,
+MNR_SAMPLE_COUNT_UNIT_CODE,10Y,"Every 10 years
+",CDS_REPORT_LOG,
+MNR_SAMPLE_COUNT_UNIT_CODE,18M,"Every 18 months
+",CDS_REPORT_LOG,
+MNR_SAMPLE_COUNT_UNIT_CODE,1T,"one time
+",CDS_REPORT_LOG,
+MNR_SAMPLE_COUNT_UNIT_CODE,2M,"Every 2 Months
+",CDS_REPORT_LOG,
+MNR_SAMPLE_COUNT_UNIT_CODE,2W,"Every 2 Weeks
+",CDS_REPORT_LOG,
+MNR_SAMPLE_COUNT_UNIT_CODE,2Y,"Every 2 years
+",CDS_REPORT_LOG,
+MNR_SAMPLE_COUNT_UNIT_CODE,3Y,"Every 3 years
+",CDS_REPORT_LOG,
+MNR_SAMPLE_COUNT_UNIT_CODE,4H,"Every 4 hours
+",CDS_REPORT_LOG,
+MNR_SAMPLE_COUNT_UNIT_CODE,4Y,"Every 4 years
+",CDS_REPORT_LOG,
+MNR_SAMPLE_COUNT_UNIT_CODE,5Y,"Every 5 years
+",CDS_REPORT_LOG,
+MNR_SAMPLE_COUNT_UNIT_CODE,6M,"Every 6 months
+",CDS_REPORT_LOG,
+MNR_SAMPLE_COUNT_UNIT_CODE,6Y,"Every 6 years
+",CDS_REPORT_LOG,
+MNR_SAMPLE_COUNT_UNIT_CODE,7Y,"Every 7 years
+",CDS_REPORT_LOG,
+MNR_SAMPLE_COUNT_UNIT_CODE,8Y,"Every 8 years
+",CDS_REPORT_LOG,
+MNR_SAMPLE_COUNT_UNIT_CODE,9Y,"Every 9 years
+",CDS_REPORT_LOG,
+MNR_SAMPLE_COUNT_UNIT_CODE,DL,"1 Day
+",CDS_REPORT_LOG,
+MNR_SAMPLE_COUNT_UNIT_CODE,HR,"1 Hour
+",CDS_REPORT_LOG,
+MNR_SAMPLE_COUNT_UNIT_CODE,MN,"Monthly
+",CDS_REPORT_LOG,
+MNR_SAMPLE_COUNT_UNIT_CODE,QT,"Quarterly
+",CDS_REPORT_LOG,
+MNR_SAMPLE_COUNT_UNIT_CODE,WK,"Weekly
+",CDS_REPORT_LOG,
+MNR_SAMPLE_COUNT_UNIT_CODE,YR,"Yearly
+",CDS_REPORT_LOG,
+MNR_SAMPLE_TYPE_CODE,CO,"Confirmation - Sample taken to confirm a previous sample analytical result.  The sample is taken at the same location as the earlier sample. This is sometimes known as a ""check sample"".
+",CDS_REPORT_LOG,
+MNR_SAMPLE_TYPE_CODE,FE,"
+",CDS_REPORT_LOG,
+MNR_SAMPLE_TYPE_CODE,FR,"
+",CDS_REPORT_LOG,
+MNR_SAMPLE_TYPE_CODE,OT,"Other
+",CDS_REPORT_LOG,
+MNR_SAMPLE_TYPE_CODE,RA,"Re-analysis of sample for same or different analyte.
+",CDS_REPORT_LOG,
+MNR_SAMPLE_TYPE_CODE,RP,"Repeat or Check - Sample collected following an exceedance in routine a sample.
+",CDS_REPORT_LOG,
+MNR_SAMPLE_TYPE_CODE,RT,"Routine - A regularly scheduled sample which is collected to satisfy a monitoring requirement.
+",CDS_REPORT_LOG,
+MNR_SAMPLE_TYPE_CODE,SP,"Special - Sample collected for purposes other than compliance determination or to satisfy a monitoring requirement.
+",CDS_REPORT_LOG,
+MNR_SAMPLE_TYPE_CODE,TR,"Temporary Routine
+",CDS_REPORT_LOG,
+MONITORING_ASSESSMENT_FLAG,,"Monitoring  assessment not yet determined - Sample schedule has never been assessed by the Sample Schedule Monitoring Assessment Process.  This will be the value for newly created Sample Schedules and all Sample Schedules prior to the first time CDS Setup is run.
+",SAMPLE_SCHEDULE,
+MONITORING_ASSESSMENT_FLAG,A,"Schedule has been assessed and is a candidate for Increased/Decreased monitoring, but the user has elected for it not to show on future reports.  If any circumstances change that trigger reassessment, (i.e.
+ modified results, sample schedules, or monitoring periods) the schedule will be reassessed the next time that CDS Setup is run.",SAMPLE_SCHEDULE,
+MONITORING_ASSESSMENT_FLAG,D,"Decreased - Sample Schedule was evaluated and was determined to be a candidate for decreased monitoring with an unspecified frequency.
+",SAMPLE_SCHEDULE,
+MONITORING_ASSESSMENT_FLAG,D3,"Decrease to every 3 years - Sample schedule was evaluated and was determined to be a candidate to be decreased to a once every 3 years monitoring frequency.
+",SAMPLE_SCHEDULE,
+MONITORING_ASSESSMENT_FLAG,D6,"Decrease to every 6 years - Sample schedule was evaluated and was determined to be a candidate to be decreased to a once every 6 years monitoring frequency.
+",SAMPLE_SCHEDULE,
+MONITORING_ASSESSMENT_FLAG,D9,"Decrease to every 9 years - Sample schedule was evaluated and was determined to be a candidate to be decreased to a once every 9 years monitoring frequency.
+",SAMPLE_SCHEDULE,
+MONITORING_ASSESSMENT_FLAG,I,"Increased - Sample Schedule was evaluated and was determined to be a candidate for increased monitoring.
+",SAMPLE_SCHEDULE,
+MONITORING_ASSESSMENT_FLAG,N,"Sample Schedule cannot be assessed because no RCB, TRL, MCL and/or ACL is defined for the analyte referenced by the Sample Schedule (through Monitoring Requirement).
+",SAMPLE_SCHEDULE,
+MONITORING_ASSESSMENT_FLAG,P,"Sample Schedule was evalutaed and was determined to be a candidate to switch from indicator monitoring to principal contaminant monitoring.
+",SAMPLE_SCHEDULE,
+MONITORING_ASSESSMENT_FLAG,S,"Same - Sample Schedule has been evaluated and does not qualify as a candidate for either increased or decreased monitoring
+
+",SAMPLE_SCHEDULE,
+MONITORING_ASSESSMENT_FLAG,X,"Schedule has been assessed and user has elected for it not to show on future reports.  If the user has marked the Schedule's Monitoring Assessment Flag with X, the schedule  will not be reassessed when CDS Setup executes.
+",SAMPLE_SCHEDULE,
+MP_MONITORING_PERIOD_TYPE_CODE,10Y,"Every 10 years
+",CDS_REPORT_LOG,
+MP_MONITORING_PERIOD_TYPE_CODE,1T,"one time
+",CDS_REPORT_LOG,
+MP_MONITORING_PERIOD_TYPE_CODE,2Y,"Every 2 years
+",CDS_REPORT_LOG,
+MP_MONITORING_PERIOD_TYPE_CODE,3Y,"Every 3 Years
+",CDS_REPORT_LOG,
+MP_MONITORING_PERIOD_TYPE_CODE,4H,"every 4 Hours
+",CDS_REPORT_LOG,
+MP_MONITORING_PERIOD_TYPE_CODE,4Y,"Every 4 Years
+",CDS_REPORT_LOG,
+MP_MONITORING_PERIOD_TYPE_CODE,5Y,"Every 5 years
+",CDS_REPORT_LOG,
+MP_MONITORING_PERIOD_TYPE_CODE,6M,"every 6 Months
+",CDS_REPORT_LOG,
+MP_MONITORING_PERIOD_TYPE_CODE,6Y,"Every 6 years
+",CDS_REPORT_LOG,
+MP_MONITORING_PERIOD_TYPE_CODE,7Y,"Every 7 years
+",CDS_REPORT_LOG,
+MP_MONITORING_PERIOD_TYPE_CODE,8Y,"Every 8 years
+",CDS_REPORT_LOG,
+MP_MONITORING_PERIOD_TYPE_CODE,9Y,"Every 9 Years
+",CDS_REPORT_LOG,
+MP_MONITORING_PERIOD_TYPE_CODE,DL,"Daily
+",CDS_REPORT_LOG,
+MP_MONITORING_PERIOD_TYPE_CODE,HR,"Hourly
+",CDS_REPORT_LOG,
+MP_MONITORING_PERIOD_TYPE_CODE,MN,"Monthly
+",CDS_REPORT_LOG,
+MP_MONITORING_PERIOD_TYPE_CODE,NA,"Not Applicable - No Mon
+",CDS_REPORT_LOG,
+MP_MONITORING_PERIOD_TYPE_CODE,QT,"Quarterly
+",CDS_REPORT_LOG,
+MP_MONITORING_PERIOD_TYPE_CODE,WK,"Weekly
+",CDS_REPORT_LOG,
+MP_MONITORING_PERIOD_TYPE_CODE,YR,"Yearly
+",CDS_REPORT_LOG,
+MPAVG_MCL_COMPLIANCE_METHOD,MPA,"Monitoring Period Average
+",CDS_MONITORING_PERIOD_AVERAGE,
+MPAVG_MCL_COMPLIANCE_METHOD,RAA,"Running Annual Average
+",CDS_MONITORING_PERIOD_AVERAGE,
+MR_COMPLIANCE_INDICATOR,NMJ,"No - M&R compliance not met resulting in a Major violation
+",MDBP_SUMMARY,
+MR_COMPLIANCE_INDICATOR,NMN,"No - M&R compliance not met resulting in a Minor violation
+",MDBP_SUMMARY,
+MR_COMPLIANCE_INDICATOR,YES,"Yes - M&R compliance was met
+",MDBP_SUMMARY,
+NON_PIPED_FACILITY_TYPE_CODE,BL,"Bulk
+",WATER_SYSTEM_FACILITY,
+NON_PIPED_FACILITY_TYPE_CODE,BT,"Bottled
+",WATER_SYSTEM_FACILITY,
+NON_PIPED_FACILITY_TYPE_CODE,RT,"Retail
+",WATER_SYSTEM_FACILITY,
+NON_PIPED_FACILITY_TYPE_CODE,VN,"Vended
+",WATER_SYSTEM_FACILITY,
+OBS_D_GENERATED_ID_SOURCE_CODE,T,"Treatment generated ID 
+",DEVIATION,
+OBS_D_GENERATED_ID_SOURCE_CODE,X,"Variance/Exemption generated ID  
+",DEVIATION,
+ON_RIVER_REACH_INDICATOR_CODE,N,"Implies that the source of water (or surface source intake) is not located on a defined river reach, but instead, is located within the area drained by the river reach.
+",WATER_SYSTEM_FACILITY,
+ON_RIVER_REACH_INDICATOR_CODE,Y,"Implies that a surface source intake is located on a defined river reach.
+",WATER_SYSTEM_FACILITY,
+OPEN_PARENTHESIS_CODE,(,"An open parenthesis immediately preceeds the related monitoring condition, when sequentially processing all monitoring conditions that qualify a monitoring requirement.
+",MONITORING_REQMT_CONDITION_ASGMT,
+OWNER_TYPE_CODE,F,"Federal Government
+",WATER_SYSTEM_HISTORY,
+OWNER_TYPE_CODE,F,"Federal Government
+",WATER_SYSTEM,
+OWNER_TYPE_CODE,L,"Local Government
+",WATER_SYSTEM_HISTORY,
+OWNER_TYPE_CODE,L,"Local Government
+",WATER_SYSTEM,
+OWNER_TYPE_CODE,M,"Mixed Public/Private
+",WATER_SYSTEM_HISTORY,
+OWNER_TYPE_CODE,M,"Mixed Public/Private
+",WATER_SYSTEM,
+OWNER_TYPE_CODE,N,"Native American
+",WATER_SYSTEM_HISTORY,
+OWNER_TYPE_CODE,N,"Native American
+",WATER_SYSTEM,
+OWNER_TYPE_CODE,P,"Private
+",WATER_SYSTEM_HISTORY,
+OWNER_TYPE_CODE,P,"Private
+",WATER_SYSTEM,
+OWNER_TYPE_CODE,S,"State Government
+",WATER_SYSTEM_HISTORY,
+OWNER_TYPE_CODE,S,"State Government
+",WATER_SYSTEM,
+PRESENCE_INDICATOR_CODE,A,"Microbes absent
+",MICROBIAL_ANALYTICAL_RESULT,
+PRESENCE_INDICATOR_CODE,P,"Microbes present
+",MICROBIAL_ANALYTICAL_RESULT,
+PRIMARY_INDICATOR_CODE,N,"No
+",WATER_SYSTEM_SERVICE_AREA_ASGMT,
+PRIMARY_INDICATOR_CODE,N,"No
+",WATER_SYSTEM_GEO_AREA_ASGMT,
+PRIMARY_INDICATOR_CODE,Y,"Yes
+",WATER_SYSTEM_SERVICE_AREA_ASGMT,
+PRIMARY_INDICATOR_CODE,Y,"Yes
+",WATER_SYSTEM_GEO_AREA_ASGMT,
+PRIMARY_TREATMENT_INDICATOR_CODE,N,"No
+",D_VALID_TREAT_OBJ_PROC_ASGMT,
+PRIMARY_TREATMENT_INDICATOR_CODE,N,"No
+",TREATMENT_OBJ_PROCESS_ASGMT,
+PRIMARY_TREATMENT_INDICATOR_CODE,Y,"Yes
+",D_VALID_TREAT_OBJ_PROC_ASGMT,
+PRIMARY_TREATMENT_INDICATOR_CODE,Y,"Yes
+",TREATMENT_OBJ_PROCESS_ASGMT,
+PRINCIPAL_INDICATOR_CODE,N,"No
+",WATER_SYSTEM_GEO_AREA_ASGMT,
+PRINCIPAL_INDICATOR_CODE,Y,"Yes
+",WATER_SYSTEM_GEO_AREA_ASGMT,
+PROCESS_PHASE_INDICATOR_CODE,A,"After
+",SAMPLING_POINT,
+PROCESS_PHASE_INDICATOR_CODE,B,"Before
+",SAMPLING_POINT,
+PROCESS_PHASE_INDICATOR_CODE,D,"During
+",SAMPLING_POINT,
+Q1_IFT_MONITORED_INDICATOR,N,"No - Each filter was not monitored continuously
+",MDBP_SUMMARY,
+Q1_IFT_MONITORED_INDICATOR,Y,"Yes - Each filter was monitored continuously
+",MDBP_SUMMARY,
+Q2_IFT_RECORDED_INDICATOR,N,"No - Each filter was not recorded every 15 minutes
+",MDBP_SUMMARY,
+Q2_IFT_RECORDED_INDICATOR,Y,"Yes - Each filter was recorded every 15 minutes
+",MDBP_SUMMARY,
+Q3_IFT_EQUIPMENT_INDICATOR,N,"No - there was no failure of the continuously monitoring equipment.
+",MDBP_SUMMARY,
+Q3_IFT_EQUIPMENT_INDICATOR,Y,"Yes - there was a failure of the continuously monitoring equipment.
+",MDBP_SUMMARY,
+Q4_IFT_GREATER_1_0_INDICATOR,N,"No -  IFT level was not greater than 1.0 NTU in two consecutive measurements.
+",MDBP_SUMMARY,
+Q4_IFT_GREATER_1_0_INDICATOR,Y,"Yes -  IFT level was greater than 1.0 NTU in two consecutive measurements.
+",MDBP_SUMMARY,
+Q5_IFT_GREATER_0_5_INDICATOR,N,"No -  IFT level was not greater than 0.5 NTU in two consecutive measurements after on line for more than four hours.
+",MDBP_SUMMARY,
+Q5_IFT_GREATER_0_5_INDICATOR,Y,"Yes -  IFT level was greater than 0.5 NTU in two consecutive measurements after on line for more than four hours.
+",MDBP_SUMMARY,
+Q6_IFT_GREATER_1_DUR_3_MON_IND,N,"No -  IFT level was not greater than   1.0 NTU in two consecutive measurements in three consecutive months.
+",MDBP_SUMMARY,
+Q6_IFT_GREATER_1_DUR_3_MON_IND,Y,"Yes -  IFT level was greater than  1.0 NTU in two consecutive measurements in three consecutive months.
+",MDBP_SUMMARY,
+Q7_IFT_GREATER_2_0_DUR_2_MON_IND,N,"No -  IFT level was not greater than 2.0 NTU in two consecutive measurements in two consecutive months.
+",MDBP_SUMMARY,
+Q7_IFT_GREATER_2_0_DUR_2_MON_IND,Y,"Yes -  IFT level was greater than 2.0 NTU in two consecutive measurements in two consecutive months.
+",MDBP_SUMMARY,
+QTR_QTR_QTR_QTR_SECTION_CODE,NE,"Northeast Quarter
+",CADASTRAL_LEGAL_DESCRIPTION,
+QTR_QTR_QTR_QTR_SECTION_CODE,NW,"Northwest Quarter
+",CADASTRAL_LEGAL_DESCRIPTION,
+QTR_QTR_QTR_QTR_SECTION_CODE,SE,"Southeast Quarter
+",CADASTRAL_LEGAL_DESCRIPTION,
+QTR_QTR_QTR_QTR_SECTION_CODE,SW,"Southwest Quarter
+",CADASTRAL_LEGAL_DESCRIPTION,
+QUARTER_QUARTER_QTR_SCTN_CODE,NE,"Northeast Quarter
+",CADASTRAL_LEGAL_DESCRIPTION,
+QUARTER_QUARTER_QTR_SCTN_CODE,NW,"Northwest Quarter
+",CADASTRAL_LEGAL_DESCRIPTION,
+QUARTER_QUARTER_QTR_SCTN_CODE,SE,"Southeast Quarter
+",CADASTRAL_LEGAL_DESCRIPTION,
+QUARTER_QUARTER_QTR_SCTN_CODE,SW,"Southwest Quarter
+",CADASTRAL_LEGAL_DESCRIPTION,
+QUARTER_QUARTER_SECTION_CODE,NE,"Northeast Quarter
+",CADASTRAL_LEGAL_DESCRIPTION,
+QUARTER_QUARTER_SECTION_CODE,NW,"Northwest Quarter
+	",CADASTRAL_LEGAL_DESCRIPTION,
+QUARTER_QUARTER_SECTION_CODE,SE,"Southeast Quarter
+",CADASTRAL_LEGAL_DESCRIPTION,
+QUARTER_QUARTER_SECTION_CODE,SW,"Southwest Quarter
+",CADASTRAL_LEGAL_DESCRIPTION,
+QUARTER_SECTION_CODE,NE,"Northeast Quarter
+	",CADASTRAL_LEGAL_DESCRIPTION,
+QUARTER_SECTION_CODE,NW,"Northwest Quarter
+	",CADASTRAL_LEGAL_DESCRIPTION,
+QUARTER_SECTION_CODE,SE,"Southeast Quarter
+",CADASTRAL_LEGAL_DESCRIPTION,
+QUARTER_SECTION_CODE,SW,"Southwest Quarter
+",CADASTRAL_LEGAL_DESCRIPTION,
+RAD_QUARTER_CODE,4,"The Rad result may apply to quarter 1, 2, 3, or 4.  0 is included since this is an optional field.
+",SAMPLE,
+REASON_CODE,,"
+",SITE_VISIT,
+REASON_CODE,B1,"Serving fewer than 50,000; met action level
+",MILESTONE_EVENT,
+REASON_CODE,B3,"Serving greater than 50,000; met action level
+",MILESTONE_EVENT,
+REASON_CODE,CAPD,"Capacity Development Assessment
+",SITE_VISIT,
+REASON_CODE,CMPA,"Compliance Assistance
+",SITE_VISIT,
+REASON_CODE,CNST,"Construction Inspection
+",SITE_VISIT,
+REASON_CODE,CPEV,"Comprehensive  Performace Evaluation (CPE)
+",SITE_VISIT,
+REASON_CODE,EMRG,"Emergency assistance
+",SITE_VISIT,
+REASON_CODE,ENGR,"Engineering determination/advice/plan/review
+",SITE_VISIT,
+REASON_CODE,FENF,"Formal Enforcement
+",SITE_VISIT,
+REASON_CODE,FUFE,"Follow-up to Formal Enforcement
+",SITE_VISIT,
+REASON_CODE,IENF,"Informal Enforcement
+",SITE_VISIT,
+REASON_CODE,INFI,"Informal system inspection
+",SITE_VISIT,
+REASON_CODE,INVG,"Investigation (complaint/violation/etc.)
+",SITE_VISIT,
+REASON_CODE,LABC,"Laboratory certification 
+",SITE_VISIT,
+REASON_CODE,LABI,"Laboratory inspection
+",SITE_VISIT,
+REASON_CODE,LOCD,"Locational Data Collection
+",SITE_VISIT,
+REASON_CODE,LSLR,"Lead Service Line Replacement
+",MILESTONE_EVENT,
+REASON_CODE,NEED,"Needs survey
+",SITE_VISIT,
+REASON_CODE,OM,"Operation and Maintenance
+",SITE_VISIT,
+REASON_CODE,OTHR,"Other 
+",SITE_VISIT,
+REASON_CODE,PRMT,"Permit (qualification/review/compliance)
+",SITE_VISIT,
+REASON_CODE,PUBH,"Public Hearing
+",SITE_VISIT,
+REASON_CODE,RCDR,"Record Review
+",SITE_VISIT,
+REASON_CODE,RSCH,"Regularly scheduled
+",SITE_VISIT,
+REASON_CODE,SHAZ,"Sanitary Hazards Investigation
+",SITE_VISIT,
+REASON_CODE,SITE,"Site Inspection
+",SITE_VISIT,
+REASON_CODE,SMPL,"Sample collection
+",SITE_VISIT,
+REASON_CODE,SNSV,"Sanitary Survey
+",SITE_VISIT,
+REASON_CODE,SRCE,"Source Water Inspection
+",SITE_VISIT,
+REASON_CODE,SRF,"State Revolving Fund
+",SITE_VISIT,
+REASON_CODE,SSVF,"Sanitary Survey Followup
+",SITE_VISIT,
+REASON_CODE,TECH,"Technical assistance (non-specific)
+",SITE_VISIT,
+REASON_CODE,TRNG,"Training
+",SITE_VISIT,
+REASON_CODE,TRTP,"Water Treatment Plant Site Visit
+",SITE_VISIT,
+REASON_CODE,VAEX,"Variance/exemption related
+",SITE_VISIT,
+REASON_CODE,WHPP,"Wellhead Protection Program
+",SITE_VISIT,
+REASON_CODE,WQP,"Water Quality Parameters
+",MILESTONE_EVENT,
+REASON_CODE,WSHD,"Watershed Evaluation
+",SITE_VISIT,
+REASON_CODE,XCON,"Cross Connection Inspection/Investigation
+",SITE_VISIT,
+REJECTION_REASON_CODE,BP,"Invalid Sample Point
+",SAMPLE,
+REJECTION_REASON_CODE,BR,"Breakage
+",SAMPLE,
+REJECTION_REASON_CODE,CL,"Chlorine present
+",SAMPLE,
+REJECTION_REASON_CODE,CNFG,"Confluent growth
+",MICROBIAL_ANALYTICAL_RESULT,
+REJECTION_REASON_CODE,EH,"Exceeded Holding Time
+",SAMPLE,
+REJECTION_REASON_CODE,FZ,"Sample Frozen
+",SAMPLE,
+REJECTION_REASON_CODE,HS,"Excess headspace
+",SAMPLE,
+REJECTION_REASON_CODE,IN,"Insufficient Sample Information
+",SAMPLE,
+REJECTION_REASON_CODE,IP,"Invalid Sampling Protocol
+",SAMPLE,
+REJECTION_REASON_CODE,LA,"Lab Accident
+",SAMPLE,
+REJECTION_REASON_CODE,LT,"Leaked in transit
+",SAMPLE,
+REJECTION_REASON_CODE,TCNG,"Turbid culture-no gas
+",MICROBIAL_ANALYTICAL_RESULT,
+REJECTION_REASON_CODE,TNTC,"Too numerous to count
+",MICROBIAL_ANALYTICAL_RESULT,
+REJECTION_REASON_CODE,VO,"Insufficient Volume
+",SAMPLE,
+RELATIONSHIP_CODE,EQ,"Equal to
+",SCHEDULE_RESULT_SUB_RULE,
+RELATIONSHIP_CODE,EQ,"Equal to
+",MONITORING_CONDITION,
+RELATIONSHIP_CODE,GE,"Greater than or equal to
+",SCHEDULE_RESULT_SUB_RULE,
+RELATIONSHIP_CODE,GE,"Greater than or equal to
+",MONITORING_CONDITION,
+RELATIONSHIP_CODE,GT,"Greater than
+",SCHEDULE_RESULT_SUB_RULE,
+RELATIONSHIP_CODE,GT,"Greater than
+",MONITORING_CONDITION,
+RELATIONSHIP_CODE,LE,"Less than or eqal to
+",SCHEDULE_RESULT_SUB_RULE,
+RELATIONSHIP_CODE,LE,"Less than or eqal to
+",MONITORING_CONDITION,
+RELATIONSHIP_CODE,LT,"Less than
+",SCHEDULE_RESULT_SUB_RULE,
+RELATIONSHIP_CODE,LT,"Less than
+",MONITORING_CONDITION,
+RELATIONSHIP_CODE,NE,"Not Equal
+",MONITORING_CONDITION,
+RELATIONSHIP_CODE,NE,"Not Equal
+",SCHEDULE_RESULT_SUB_RULE,
+RELATIONSHIP_INDICATOR,SG,"Related to a Schedule Group
+",SCHEDULE_PACKAGE_ROLE,
+RELATIONSHIP_INDICATOR,SS,"Related to an individual Sample Schedule
+",SCHEDULE_PACKAGE_ROLE,
+REMOVAL_ADDITION_INDICATOR,A,"Addition
+",TREATMENT_OBJ_ANALYTE_ASSOC,
+REMOVAL_ADDITION_INDICATOR,R,"Rmoval/Inactivation
+",TREATMENT_OBJ_ANALYTE_ASSOC,
+REMOVAL_ADDITION_UOM_CODE,GPG,"Grains per Gallon
+",TREATMENT_OBJ_ANALYTE_ASSOC,
+REMOVAL_ADDITION_UOM_CODE,LBS/DAY,"Pounds per Day
+",TREATMENT_OBJ_ANALYTE_ASSOC,
+REMOVAL_ADDITION_UOM_CODE,LBS/HR,"Pounds per Hour
+",TREATMENT_OBJ_ANALYTE_ASSOC,
+REMOVAL_ADDITION_UOM_CODE,LBS/MG,"Pounds per Million Gallons
+",TREATMENT_OBJ_ANALYTE_ASSOC,
+REMOVAL_ADDITION_UOM_CODE,MG/L,"Milligrams per Liter
+",TREATMENT_OBJ_ANALYTE_ASSOC,
+REMOVAL_ADDITION_UOM_CODE,PCI/L,"Pico Curies per Liter
+",TREATMENT_OBJ_ANALYTE_ASSOC,
+REMOVAL_ADDITION_UOM_CODE,UG/L,"Micrograms per Liter
+",TREATMENT_OBJ_ANALYTE_ASSOC,
+REPEAT_LOCATION_TYPE_CODE,DN,"Downstream within 5 connections of original sample location
+",SAMPLE,
+REPEAT_LOCATION_TYPE_CODE,NF,"Near First Service Connection
+",SAMPLE,
+REPEAT_LOCATION_TYPE_CODE,OR,"At original sampling location
+",SAMPLE,
+REPEAT_LOCATION_TYPE_CODE,OT,"Other sampling location
+",SAMPLE,
+REPEAT_LOCATION_TYPE_CODE,UP,"Upstream within 5 connections of original sample location
+",SAMPLE,
+REPLACEMENT_INDICATOR_CODE,N,"Sample is not a replacement.
+",SAMPLE,
+REPLACEMENT_INDICATOR_CODE,Y,"Sample is a replacement of another original sample.
+",SAMPLE,
+REPORT_EA_TO_FED,N,"System Administrator has explicitly indicated that the enforcement action(s) that may be linked to a violation of this type are not federally reportable.
+",VIOLATION_TYPE,
+REPORT_EA_TO_FED,Y,"System Administrator has indicated that the enforcement action(s) that may be linked to a violation of this type are federally reportable.
+",VIOLATION_TYPE,
+REPORT_EXCEEDENCES_INDICATOR,,"Field does not apply to state-owned violation types so should not be valued.
+",VIOLATION_TYPE,
+REPORT_EXCEEDENCES_INDICATOR,N,"No -- Migration to SDWIS/FED should not create a transaction that reports the number of exceedences with the violation (as part of the D1 record).
+",VIOLATION_TYPE,
+REPORT_EXCEEDENCES_INDICATOR,Y,"Yes -- Migration to SDWIS/FED should create a transaction that reports the number of exceedences with the violation (as part of the D1 record).
+",VIOLATION_TYPE,
+REPORT_MISSING_SAMPLES_INDICATOR,,"Field does not apply to state-owned violation types so should not be valued.
+",VIOLATION_TYPE,
+REPORT_MISSING_SAMPLES_INDICATOR,N,"No -- Migration to SDWIS/FED should not create a transaction that reports the number of missing samples with the violation (as part of the D1 record).
+",VIOLATION_TYPE,
+REPORT_MISSING_SAMPLES_INDICATOR,Y,"Yes -- Migration to SDWIS/FED should create a transaction that reports the number of missing samples with the violation (as part of the D1 record).
+",VIOLATION_TYPE,
+REPORT_PACKAGED_VIO_TO_FED_FLG,N,"The user has explicitly set this flag to N (no) to indicate  the packaged violaton should not be reported to FED.
+",VIOLATION,
+REPORT_PACKAGED_VIO_TO_FED_FLG,Y,"The user has explicitly set this flag to Y (yes) to indicate  the packaged violaton should be reported to FED.
+",VIOLATION,
+REPORT_TYPE,AR,"Results Alert
+",CDS_REPORT_LOG,
+REPORT_TYPE,CD,"Chlorite/Chlorine Dioxide Exceedence Check
+",CDS_REPORT_LOG,
+REPORT_TYPE,DD,"D/DBP Compliance
+",CDS_REPORT_LOG,
+REPORT_TYPE,DM,"Decreased Monitoring Assessment
+",CDS_REPORT_LOG,
+REPORT_TYPE,IM,"Increased Monitoring Assessment
+",CDS_REPORT_LOG,
+REPORT_TYPE,LC,"Lead & Copper Rule Compliance
+",CDS_REPORT_LOG,
+REPORT_TYPE,MCL,"MCL Compliance Check
+",CDS_REPORT_LOG,
+REPORT_TYPE,MR,"Chem/Rad M&R Compliance
+",CDS_REPORT_LOG,
+REPORT_TYPE,PN,"Public Notification Compliance
+",CDS_REPORT_LOG,
+REPORT_TYPE,SA,"Schedule Activity Compliance
+",CDS_REPORT_LOG,
+REPORT_TYPE,SCI,"Sample Collection Interval Support
+",CDS_REPORT_LOG,
+REPORT_TYPE,SV,"Site Visit Compliance
+",CDS_REPORT_LOG,
+REPORT_TYPE,SW,"Surface Water Treatment Compliance
+",CDS_REPORT_LOG,
+REPORT_TYPE,TCR,"TCR Compliance
+",CDS_REPORT_LOG,
+REPORT_TYPE,UD,"User Defined Summary Compliance
+",CDS_REPORT_LOG,
+ROLE_CODE,CO,"Compliance Officer
+",USER_ROLE,
+ROLE_CODE,DE,"Data Entry
+",USER_ROLE,
+ROLE_CODE,EO,"Enforcement Officer
+",USER_ROLE,
+ROLE_CODE,IN,"Inventory
+",USER_ROLE,
+ROLE_CODE,LB,"LB - Lab and authorizes access to the new Laboratory Component implemented in SDWIS/STATE 2.0.
+",USER_ROLE,
+ROLE_CODE,SA,"System Administrator
+",USER_ROLE,
+ROLE_CODE,SD,"Sampling Data Entry
+",USER_ROLE,
+ROLE_CODE,SV,"Site Visit
+",USER_ROLE,
+SAMPLE_COUNT_UNIT_CODE,10Y,"Every 10 years
+",MONITORING_REQUIREMNT,
+SAMPLE_COUNT_UNIT_CODE,18M,"Every 18 months
+",MONITORING_REQUIREMNT,
+SAMPLE_COUNT_UNIT_CODE,1T,"one time
+",MONITORING_REQUIREMNT,
+SAMPLE_COUNT_UNIT_CODE,2M,"Every 2 Months
+",MONITORING_REQUIREMNT,
+SAMPLE_COUNT_UNIT_CODE,2W,"Every 2 Weeks
+",MONITORING_REQUIREMNT,
+SAMPLE_COUNT_UNIT_CODE,2Y,"Every 2 years
+",MONITORING_REQUIREMNT,
+SAMPLE_COUNT_UNIT_CODE,3Y,"Every 3 years
+",MONITORING_REQUIREMNT,
+SAMPLE_COUNT_UNIT_CODE,4H,"Every 4 hours
+",MONITORING_REQUIREMNT,
+SAMPLE_COUNT_UNIT_CODE,4Y,"Every 4 years
+",MONITORING_REQUIREMNT,
+SAMPLE_COUNT_UNIT_CODE,5Y,"Every 5 years
+",MONITORING_REQUIREMNT,
+SAMPLE_COUNT_UNIT_CODE,6M,"Every 6 months
+",MONITORING_REQUIREMNT,
+SAMPLE_COUNT_UNIT_CODE,6Y,"Every 6 years
+",MONITORING_REQUIREMNT,
+SAMPLE_COUNT_UNIT_CODE,7Y,"Every 7 years
+",MONITORING_REQUIREMNT,
+SAMPLE_COUNT_UNIT_CODE,8Y,"Every 8 years
+",MONITORING_REQUIREMNT,
+SAMPLE_COUNT_UNIT_CODE,9Y,"Every 9 years
+",MONITORING_REQUIREMNT,
+SAMPLE_COUNT_UNIT_CODE,DL,"1 Day
+",MONITORING_REQUIREMNT,
+SAMPLE_COUNT_UNIT_CODE,HR,"1 Hour
+",MONITORING_REQUIREMNT,
+SAMPLE_COUNT_UNIT_CODE,MN,"Monthly
+",MONITORING_REQUIREMNT,
+SAMPLE_COUNT_UNIT_CODE,QT,"Quarterly
+",MONITORING_REQUIREMNT,
+SAMPLE_COUNT_UNIT_CODE,WK,"Weekly
+",MONITORING_REQUIREMNT,
+SAMPLE_COUNT_UNIT_CODE,YR,"Yearly
+",MONITORING_REQUIREMNT,
+SAMPLE_SCHEDULE_BEGIN_UNIT_CODE,1D,"One business day of notification
+",MONITORING_REQUIREMNT,
+SAMPLE_SCHEDULE_BEGIN_UNIT_CODE,24,"Within 24 hours
+",MONITORING_REQUIREMNT,
+SAMPLE_SCHEDULE_BEGIN_UNIT_CODE,2D,"Two business days of notification
+",MONITORING_REQUIREMNT,
+SAMPLE_SCHEDULE_BEGIN_UNIT_CODE,72,"Within 72 hours of notification
+",MONITORING_REQUIREMNT,
+SAMPLE_SCHEDULE_BEGIN_UNIT_CODE,FM,"Following month
+",MONITORING_REQUIREMNT,
+SAMPLE_TYPE_CODE,BO,"Both
+",VIOLATION_TYPE,
+SAMPLE_TYPE_CODE,CO,"Confirmation - Sample taken to confirm a previous sample analytical result.  The sample is taken at the same location as the earlier sample. This is sometimes known as a ""check sample"".
+",MONITORING_REQUIREMNT,
+SAMPLE_TYPE_CODE,FE,"
+",MONITORING_REQUIREMNT,
+SAMPLE_TYPE_CODE,FR,"
+",MONITORING_REQUIREMNT,
+SAMPLE_TYPE_CODE,NO,"None
+",VIOLATION_TYPE,
+SAMPLE_TYPE_CODE,OT,"Other
+",MONITORING_REQUIREMNT,
+SAMPLE_TYPE_CODE,RA,"Re-analysis of sample for same or different analyte.
+",MONITORING_REQUIREMNT,
+SAMPLE_TYPE_CODE,RP,"Repeat or Check - Sample collected following an exceedance in routine a sample.
+",MONITORING_REQUIREMNT,
+SAMPLE_TYPE_CODE,RP,"Repeat
+",VIOLATION_TYPE,
+SAMPLE_TYPE_CODE,RT,"Routine - A regularly scheduled sample which is collected to satisfy a monitoring requirement.
+",MONITORING_REQUIREMNT,
+SAMPLE_TYPE_CODE,RT,"Routine
+",VIOLATION_TYPE,
+SAMPLE_TYPE_CODE,SP,"Special - Sample collected for purposes other than compliance determination or to satisfy a monitoring requirement.
+",MONITORING_REQUIREMNT,
+SAMPLE_TYPE_CODE,TR,"Temporary Routine
+",MONITORING_REQUIREMNT,
+SAN_SURVEY_ELEM_DISTRIB_SYSTEM,M,"Minor deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEM_DISTRIB_SYSTEM,N,"No deficiencies or recommendations
+",SITE_VISIT,
+SAN_SURVEY_ELEM_DISTRIB_SYSTEM,R,"Recommendation(s) made
+",SITE_VISIT,
+SAN_SURVEY_ELEM_DISTRIB_SYSTEM,S,"Significant deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEM_DISTRIB_SYSTEM,X,"Not evaluated
+",SITE_VISIT,
+SAN_SURVEY_ELEM_DISTRIB_SYSTEM,Z,"Not Applicable
+",SITE_VISIT,
+SAN_SURVEY_ELEM_FIN_WATER_STORAG,M,"Minor deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEM_FIN_WATER_STORAG,N,"No deficiencies or recommendations
+",SITE_VISIT,
+SAN_SURVEY_ELEM_FIN_WATER_STORAG,R,"Recommendation(s) made
+",SITE_VISIT,
+SAN_SURVEY_ELEM_FIN_WATER_STORAG,S,"Significant deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEM_FIN_WATER_STORAG,X,"Not evaluated
+",SITE_VISIT,
+SAN_SURVEY_ELEM_FIN_WATER_STORAG,Z,"Not Applicable
+",SITE_VISIT,
+SAN_SURVEY_ELEM_FINANCIAL,M,"Minor deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEM_FINANCIAL,N,"No deficiencies or recommendations
+",SITE_VISIT,
+SAN_SURVEY_ELEM_FINANCIAL,R,"Recommendation(s) made
+",SITE_VISIT,
+SAN_SURVEY_ELEM_FINANCIAL,S,"Significant deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEM_FINANCIAL,X,"Not evaluated
+",SITE_VISIT,
+SAN_SURVEY_ELEM_FINANCIAL,Z,"Not Applicable
+",SITE_VISIT,
+SAN_SURVEY_ELEM_OPTR_COMP_EVAL,M,"Minor deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEM_OPTR_COMP_EVAL,N,"No deficiencies or recommendations
+",SITE_VISIT,
+SAN_SURVEY_ELEM_OPTR_COMP_EVAL,R,"Recommendation(s) made
+",SITE_VISIT,
+SAN_SURVEY_ELEM_OPTR_COMP_EVAL,S,"Significant deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEM_OPTR_COMP_EVAL,X,"Not evaluated
+",SITE_VISIT,
+SAN_SURVEY_ELEM_OPTR_COMP_EVAL,Z,"Not Applicable
+",SITE_VISIT,
+SAN_SURVEY_ELEM_SECURITY,M,"Minor deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEM_SECURITY,N,"No deficiencies or recommendations
+",SITE_VISIT,
+SAN_SURVEY_ELEM_SECURITY,R,"Recommendation(s) made
+",SITE_VISIT,
+SAN_SURVEY_ELEM_SECURITY,S,"Significant deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEM_SECURITY,X,"Not evaluated
+",SITE_VISIT,
+SAN_SURVEY_ELEM_SECURITY,Z,"Not Applicable
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_MR_AND_DV,M,"Minor deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_MR_AND_DV,N,"No deficiencies or recommendations
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_MR_AND_DV,R,"Recommendation(s) made
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_MR_AND_DV,S,"Significant deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_MR_AND_DV,X,"Not evaluated
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_MR_AND_DV,Z,"Not Applicable
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_OTHER,M,"Minor deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_OTHER,N,"No deficiencies or recommendations
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_OTHER,R,"Recommendation(s) made
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_OTHER,S,"Significant deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_OTHER,X,"Not evaluated
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_OTHER,Z,"Not Applicable
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_PUMPS,M,"Minor deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_PUMPS,N,"No deficiencies or recommendations
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_PUMPS,R,"Recommendation(s) made
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_PUMPS,S,"Significant deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_PUMPS,X,"Not evaluated
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_PUMPS,Z,"Not Applicable
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_SOURCE,M,"Minor deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_SOURCE,N,"No deficiencies or recommendations
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_SOURCE,R,"Recommendation(s) made
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_SOURCE,S,"Significant deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_SOURCE,X,"Not evaluated
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_SOURCE,Z,"Not Applicable
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_TREATMENT,M,"Minor deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_TREATMENT,N,"No deficiencies or recommendations
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_TREATMENT,R,"Recommendation(s) made
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_TREATMENT,S,"Significant deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_TREATMENT,X,"Not evaluated
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_TREATMENT,Z,"Not Applicable
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_WS_MGT_OPS,M,"Minor deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_WS_MGT_OPS,N,"No deficiencies or recommendations
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_WS_MGT_OPS,R,"Recommendation(s) made
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_WS_MGT_OPS,S,"Significant deficiency(ies)
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_WS_MGT_OPS,X,"Not evaluated
+",SITE_VISIT,
+SAN_SURVEY_ELEMENT_WS_MGT_OPS,Z,"Not Applicable
+",SITE_VISIT,
+SANITARY_SURVEY_CATEGORY,DS,"Distribution System
+",DEFICIENCY,
+SANITARY_SURVEY_CATEGORY,FI,"Financial
+",DEFICIENCY,
+SANITARY_SURVEY_CATEGORY,FW,"Finished Water Storage
+",DEFICIENCY,
+SANITARY_SURVEY_CATEGORY,MR,"Monitoring and Requirements (M&R)/Data Verification
+",DEFICIENCY,
+SANITARY_SURVEY_CATEGORY,OC,"Operator Compliance with State Requirements
+",DEFICIENCY,
+SANITARY_SURVEY_CATEGORY,OT,"Other
+",DEFICIENCY,
+SANITARY_SURVEY_CATEGORY,PU,"Pump/Pumping Facility & Control
+",DEFICIENCY,
+SANITARY_SURVEY_CATEGORY,SE,"Security
+",DEFICIENCY,
+SANITARY_SURVEY_CATEGORY,SM,"System Management & Operation
+",DEFICIENCY,
+SANITARY_SURVEY_CATEGORY,SO,"Source
+",DEFICIENCY,
+SANITARY_SURVEY_CATEGORY,TR,"Treatment
+",DEFICIENCY,
+SANITARY_SURVEY_CATEGORY,UK,"Unknown
+",DEFICIENCY,
+SCH_STATE_YEAR,9,"Specification of which year within the State Assigned Collection Period to collect ""for compliance"" samples (year is specificed as 0, 1, 2, 3, etc. to 9. 
+",CDS_SCHEDULE,
+SDWISFED_STATUS,A,"Accepted by SDWIS/FED - The sample analytical result or sample summary was included in a generated H1 file that was sent to SDWIS/FED; according to feedback from SDWIS/FED, the result has been accepted into SDWIS/FED.
+",SAMPLE_ANALYTICAL_RESULT,
+SDWISFED_STATUS,C,"DTF Created  - the Sample Analytical Result or Sample Summary Result has been included in a generated H1 file.  The status of the result relative to SDWIS/FED is unknown at this point.
+",SAMPLE_ANALYTICAL_RESULT,
+SDWISFED_STATUS,R,"Rejected by SDWIS/FED -  - The sample analytical result or sample summary was included in a generated H1 file that was sent to SDWIS/FED; according to the error report from SDWIS/FED, the result has been rejected by SDWIS/FED.
+
+",SAMPLE_ANALYTICAL_RESULT,
+SECURITY_STATUS_CODE,A,"Assessed
+",WATER_SYSTEM_FACILITY_SECURITY,
+SECURITY_STATUS_CODE,NS,"Not Secure
+",WATER_SYSTEM_FACILITY_SECURITY,
+SECURITY_STATUS_CODE,S,"Secure
+",WATER_SYSTEM_FACILITY_SECURITY,
+SECURITY_STATUS_CODE,U,"Unassessed
+",WATER_SYSTEM_FACILITY_SECURITY,
+SELECTION_CODE,C,"Batch run included CU90 sample summaries and summary results
+",SDWISFED_BATCH,
+SELECTION_CODE,P,"Batch run included PB90 sample summaries and summary results
+",SDWISFED_BATCH,
+SELECTION_CODE,U,"Batch run included UCM sample and sample results
+",SDWISFED_BATCH,
+SELLER_TREATMENT_INDICATOR_CODE,,"Unknown
+",WSF_DELETIONS,
+SELLER_TREATMENT_INDICATOR_CODE,,"Unknown
+",WATER_SYSTEM_FACILITY,
+SELLER_TREATMENT_INDICATOR_CODE,F,"Treated by Seller Including Filtration
+",WATER_SYSTEM_FACILITY_HISTORY,
+SELLER_TREATMENT_INDICATOR_CODE,F,"Treated by Seller Including Filtration
+",WSF_DELETIONS,
+SELLER_TREATMENT_INDICATOR_CODE,F,"Treated by Seller Including Filtration
+",WATER_SYSTEM_FACILITY,
+SELLER_TREATMENT_INDICATOR_CODE,N,"Not Treated by Seller
+",WATER_SYSTEM_FACILITY_HISTORY,
+SELLER_TREATMENT_INDICATOR_CODE,N,"Not Treated by Seller
+",WSF_DELETIONS,
+SELLER_TREATMENT_INDICATOR_CODE,N,"Not Treated by Seller
+",WATER_SYSTEM_FACILITY,
+SELLER_TREATMENT_INDICATOR_CODE,P,"Partially Treated by Seller
+",WATER_SYSTEM_FACILITY_HISTORY,
+SELLER_TREATMENT_INDICATOR_CODE,P,"Partially Treated by Seller
+",WSF_DELETIONS,
+SELLER_TREATMENT_INDICATOR_CODE,P,"Partially Treated by Seller
+",WATER_SYSTEM_FACILITY,
+SELLER_TREATMENT_INDICATOR_CODE,T,"Treated by Seller Without Filtration
+",WATER_SYSTEM_FACILITY_HISTORY,
+SELLER_TREATMENT_INDICATOR_CODE,T,"Treated by Seller Without Filtration
+",WSF_DELETIONS,
+SELLER_TREATMENT_INDICATOR_CODE,T,"Treated by Seller Without Filtration
+",WATER_SYSTEM_FACILITY,
+SEVERITY,MIN,"Minor
+",DEFICIENCY,
+SEVERITY,NON,"None
+",DEFICIENCY,
+SEVERITY,REC,"Recommendation made
+",DEFICIENCY,
+SEVERITY,SIG,"Significant
+",DEFICIENCY,
+SEVERITY_LEVEL,95,"95% of all samples during Monitoring Period should be within a desired level- for instance combined filter effluent turbidity level
+",VIOLATION_TYPE,
+SEVERITY_LEVEL,AC,"Acute MRDL violation
+",VIOLATION_TYPE,
+SEVERITY_LEVEL,MJ,"Major
+",VIOLATION_TYPE,
+SEVERITY_LEVEL,MN,"Minor
+",VIOLATION_TYPE,
+SEVERITY_LEVEL,MX,"Single Sample Exceeds a Maximum Level - (for example,  combined filter effluent turbidity level).
+
+
+",VIOLATION_TYPE,
+SEVERITY_LEVEL,NC,"Non acute MRDL violation.
+",VIOLATION_TYPE,
+SOURCE_TYPE_CODE,FN,"finished, treated
+",SAMPLING_POINT,
+SOURCE_TYPE_CODE,RW,"  raw, untreated
+",SAMPLING_POINT,
+STATE_YEAR,9,"Specification of which year within the State Assigned Collection Period to collect ""for compliance"" samples (year is specificed as 0, 1, 2, 3, etc. to 9.  
+",SAMPLE_SCHEDULE,
+STATUS,C,"Completed
+",SITE_VISIT,
+STATUS,D,"Denied
+",MONITORING_WAIVER,
+STATUS,G,"Granted
+",MONITORING_WAIVER,
+STATUS,P,"Potential
+",MILESTONE_EVENT,
+STATUS,P,"Proposed
+",MONITORING_WAIVER,
+STATUS,P,"Planned
+",SITE_VISIT,
+STATUS,P,"Potential
+",STANDARD_RESP_ACTION_TYPE_ASGMT,
+STATUS,R,"Rejected
+",MILESTONE_EVENT,
+STATUS,T,"Taken
+",STANDARD_RESP_ACTION_TYPE_ASGMT,
+STATUS,U,"Under review
+",MONITORING_WAIVER,
+STATUS,V,"Validated
+",MILESTONE_EVENT,
+STATUS_CODE,A,"Interest expressed
+",DEVIATION,
+STATUS_CODE,A,"Interest expressed
+",MILESTONE_EVENT,
+STATUS_CODE,B,"Completed, PWS in compliance
+",DEVIATION,
+STATUS_CODE,B,"Completed, PWS in compliance
+",MILESTONE_EVENT,
+STATUS_CODE,C,"Application received
+",DEVIATION,
+STATUS_CODE,C,"Application received
+",MILESTONE_EVENT,
+STATUS_CODE,C,"Completed
+",ASSISTANCE_ACTION,
+STATUS_CODE,D,"Deleted
+",VIOLATION,
+STATUS_CODE,E,"State proposes to deny
+",DEVIATION,
+STATUS_CODE,E,"State proposes to deny
+",MILESTONE_EVENT,
+STATUS_CODE,F,"Final
+",COMPLIANCE_SCHEDULE,
+STATUS_CODE,G,"State proposes to grant
+",DEVIATION,
+STATUS_CODE,G,"State proposes to grant
+",MILESTONE_EVENT,
+STATUS_CODE,I,"Hearing scheduled on proposal
+",DEVIATION,
+STATUS_CODE,I,"Hearing scheduled on proposal
+",MILESTONE_EVENT,
+STATUS_CODE,K,"Hearing held on proposal
+",DEVIATION,
+STATUS_CODE,K,"Hearing held on proposal
+",MILESTONE_EVENT,
+STATUS_CODE,M,"Compliance schedule prescribed
+",DEVIATION,
+STATUS_CODE,M,"Compliance schedule prescribed
+",MILESTONE_EVENT,
+STATUS_CODE,O,"Hearing scheduled on compliance schedule
+",DEVIATION,
+STATUS_CODE,O,"Hearing scheduled on compliance schedule
+",MILESTONE_EVENT,
+STATUS_CODE,P,"Potential
+",VIOLATION,
+STATUS_CODE,P,"Proposed
+",COMPLIANCE_SCHEDULE,
+STATUS_CODE,P,"Proposed
+",ASSISTANCE_ACTION,
+STATUS_CODE,Q,"Hearing held on compliance schedule
+",DEVIATION,
+STATUS_CODE,Q,"Hearing held on compliance schedule
+",MILESTONE_EVENT,
+STATUS_CODE,R,"Additional information desired
+",DEVIATION,
+STATUS_CODE,R,"Rejected
+",VIOLATION,
+STATUS_CODE,R,"Additional information desired
+",MILESTONE_EVENT,
+STATUS_CODE,R,"Offered but rejected
+",ASSISTANCE_ACTION,
+STATUS_CODE,S,"Request granted
+",DEVIATION,
+STATUS_CODE,S,"Request granted
+",MILESTONE_EVENT,
+STATUS_CODE,S,"Superceded
+",COMPLIANCE_SCHEDULE,
+STATUS_CODE,T,"Request denied
+",DEVIATION,
+STATUS_CODE,T,"Request denied
+",MILESTONE_EVENT,
+STATUS_CODE,U,"State sets monitoring requirements 
+",DEVIATION,
+STATUS_CODE,U,"State sets monitoring requirements 
+",MILESTONE_EVENT,
+STATUS_CODE,V,"EPA sets monitoring requirements 
+",DEVIATION,
+STATUS_CODE,V,"Validated
+",VIOLATION,
+STATUS_CODE,V,"EPA sets monitoring requirements 
+",MILESTONE_EVENT,
+STATUS_CODE,W,"Notification given to public
+",DEVIATION,
+STATUS_CODE,W,"Notification given to public
+",MILESTONE_EVENT,
+STATUS_CODE,X,"Other
+",DEVIATION,
+STATUS_CODE,X,"Other
+",MILESTONE_EVENT,
+STATUS_CODE,Y,"Notification given to EPA
+",DEVIATION,
+STATUS_CODE,Y,"Notification given to EPA
+",MILESTONE_EVENT,
+STATUS_CODE,Z,"Pending deletion
+",DEVIATION,
+STATUS_CODE,Z,"Pending deletion
+",MILESTONE_EVENT,
+STATUS_TYPE_CODE,AN,"Advance notice
+",RULE,
+STATUS_TYPE_CODE,DR,"Draft
+",RULE,
+STATUS_TYPE_CODE,FN,"Final
+",RULE,
+STATUS_TYPE_CODE,PR,"Proposed
+",RULE,
+SUBSTITUTE_RESULT_INDICATOR,A,"Always - A substitute result can always be used to satisfy the schedule even if a matching result also is used.
+",SAMPLE_SCHEDULE,
+SUBSTITUTE_RESULT_INDICATOR,N,"Never - A substitute result can never be used to satisfy the schedule even if no matching result exists.
+",SAMPLE_SCHEDULE,
+SUBSTITUTE_RESULT_INDICATOR,O,"Optionally - A substitute result can optionally be used to satisfy the schedule, i.e., when a matching result is not available.
+",SAMPLE_SCHEDULE,
+SWAP_REPORT_STATUS,DEN,"Denied
+",WATER_SYSTEM_FACILITY,
+SWAP_REPORT_STATUS,DUE,"Due
+",WATER_SYSTEM_FACILITY,
+SWAP_REPORT_STATUS,N,"No, not completed.
+",WATER_SYSTEM_FACILITY,
+SWAP_REPORT_STATUS,N/A,"Not required to be completed.
+",WATER_SYSTEM_FACILITY,
+SWAP_REPORT_STATUS,REC,"Received.
+",WATER_SYSTEM_FACILITY,
+SWAP_REPORT_STATUS,REQ,"Requested.
+",WATER_SYSTEM_FACILITY,
+SWAP_REPORT_STATUS,UR,"Under Review
+",WATER_SYSTEM_FACILITY,
+SWAP_REPORT_STATUS,Y,"Yes, completed.
+",WATER_SYSTEM_FACILITY,
+TCR_STREAMNESS_REQD_INDICATOR,N,"N - Compliance Officer has explicitly indicated that streamness should not be considered when the TCR schedule is evalutated by TCR NCD. 
+",SAMPLE_SCHEDULE,
+TCR_STREAMNESS_REQD_INDICATOR,Y,"Y - Compliance Officer has indicated that  Streamness must be considered when the TCR schedule is evalutated by TCR NCD -- (i.e. if repeat samples do not indicate streamness of upstream, downstream, and original site, TCR NCD will determine a candidate minor M&R violation.)
+",SAMPLE_SCHEDULE,
+TEMP_MEASUREMENT_TYPE_CODE,C,"Centigrade
+",FIELD_RESULTS,
+TEMP_MEASUREMENT_TYPE_CODE,F,"Farenheit
+",FIELD_RESULTS,
+TEST_TYPE,C,"Confirmed
+",MICROBIAL_ANALYTICAL_RESULT,
+TEST_TYPE,P,"Presumptive
+",MICROBIAL_ANALYTICAL_RESULT,
+THRESHOLD_TYPE_CODE,ACL,"Action level - level that when exceeded requires a water supply to take a specific action.  The level may not be indicative of a public health threat. For example, lead and copper action level.
+",ANALYTE_LEVEL_RULE_ASGMT,
+THRESHOLD_TYPE_CODE,MCL,"Maximum contaminant level
+",ANALYTE_LEVEL_RULE_ASGMT,
+THRESHOLD_TYPE_CODE,MCLG,"Maximum contaminant level goal
+",ANALYTE_LEVEL_RULE_ASGMT,
+THRESHOLD_TYPE_CODE,TRL,"Trigger Level - Level that when exceeded requires increased monitoring.   Established by rule or regulation.
+
+",ANALYTE_LEVEL_RULE_ASGMT,
+THRESHOLD_TYPE_CODE,URTH,"Unreasonable risk to health measure - Measure established in policy or guidance that reflects a level that is typically two times the Maximum Contaminant Level.  The basis for URTH levels is a 70-year life span during which an individual consumes approximately two liters of water per day, the result of which is an anticipated carcinogenic risk.
+",ANALYTE_LEVEL_RULE_ASGMT,
+TICKLER_INDICATOR_CODE,N,"No
+",ENFORCEMENT_CASE_NOT_IMP,
+TICKLER_INDICATOR_CODE,Y,"Yes, pending further actions/review
+",ENFORCEMENT_CASE_NOT_IMP,
+TIER_CODE,1,"Tier 1
+",SIGNIFICANT_NON_COMPLIER_NOT_IMP,
+TIER_CODE,2,"Tier 2
+",SIGNIFICANT_NON_COMPLIER_NOT_IMP,
+TIER_LEVEL,1,"Public notification of most serious health effects from acute 
+contamination of microbials and nitrate.  Notice must be delivered within twenty-four hours via electronic media or by hand.
+",VIOLATION,
+TIER_LEVEL,2,"Public notification of chronic health effects from MCL exceedance.  Notice must be delivered within 30 days.
+",VIOLATION,
+TIER_LEVEL,3,"Public notification of potential health effects due to failure to 
+monitor.  Notice must be delivered within 30 days.
+",VIOLATION,
+TIER_LEVEL_NUMBER,1,"Public notification of most serious health effects from acute 
+contamination of microbials and nitrate.  Notice must be delivered within twenty-four hours via electronic media or by hand.
+",VIOLATION_TYPE,
+TIER_LEVEL_NUMBER,2,"Public notification of chronic health effects from MCL exceedance.  Notice must be delivered within 30 days.
+",VIOLATION_TYPE,
+TIER_LEVEL_NUMBER,3,"Public notification of potential health effects due to failure to 
+monitor.  Notice must be delivered within 30 days.
+",VIOLATION_TYPE,
+TINPRT_RULE_CODE,C,"Community water system
+",D_PWS_RULE_TABLE,
+TINPRT_RULE_CODE,NC,"Non-community transient water system
+",D_PWS_RULE_TABLE,
+TINPRT_RULE_CODE,NTNC,"Non-transient non-community water system
+",D_PWS_RULE_TABLE,
+TINPRT_RULE_CODE,P,"Public water system
+",D_PWS_RULE_TABLE,
+TINSAT_CLASS_CODE,NT,"Non-Transient (For example, industrial/agricultural, medical facility, school)
+",D_SERVICE_AREA_TYPE,
+TINSAT_CLASS_CODE,O,"Other (For example, interstate carrier, water bottler)
+",D_SERVICE_AREA_TYPE,
+TINSAT_CLASS_CODE,R,"Residential (For example, residential area, mobile home park, municipality)
+",D_SERVICE_AREA_TYPE,
+TINSAT_CLASS_CODE,T,"Transient (For example, recreation area, highway rest area, hotel/motel)
+",D_SERVICE_AREA_TYPE,
+TOP_MEASURE_RELATIVITY,AB,"above surface
+",WELL_CASING,
+TOP_MEASURE_RELATIVITY,AS,"at surface
+",WELL_CASING,
+TOP_MEASURE_RELATIVITY,BL,"below surface
+",WELL_CASING,
+TOP_MEASURE_UOM,FT,"Feet
+",WELL_CASING,
+TOP_MEASURE_UOM,IN,"Inches
+",WELL_CASING,
+TRANSACTION_TYPE,I,"Insert sample new to SDWIS/FED
+",SAMPLE_ANALYTICAL_RESULT,
+TRANSACTION_TYPE,M,"Modify sample already existing in SDWIS/FED
+",SAMPLE_ANALYTICAL_RESULT,
+TREATMENT_STATUS_CODE,,"
+
+",WATER_SYSTEM_FACILITY_HISTORY,
+TREATMENT_STATUS_CODE,N,"No Treatment
+",WATER_SYSTEM_FACILITY,
+TREATMENT_STATUS_CODE,N,"No Treatment
+",WATER_SYSTEM_FACILITY_HISTORY,
+TREATMENT_STATUS_CODE,N,"No Treatment
+",WSF_DELETIONS,
+TREATMENT_STATUS_CODE,T,"Treated
+",WATER_SYSTEM_FACILITY,
+TREATMENT_STATUS_CODE,T,"Treated
+",WATER_SYSTEM_FACILITY_HISTORY,
+TREATMENT_STATUS_CODE,T,"Treated
+",WSF_DELETIONS,
+TRIGGER_NAME,EVALTCR,"Evaluate TCR Sample Schedule
+",INVENTORY_CHANGE_TRIGGER,
+TRIGGER_NAME,FEDPRIMSRCCD,"Generate Federal Primary Source Code
+",INVENTORY_CHANGE_TRIGGER,
+TRIGGER_NAME,FEDTYPECD,"Generate Derived Federal Type Code
+",INVENTORY_CHANGE_TRIGGER,
+TRIGGER_NAME,PRINCITYSVDNAME,"Generate Derived Principal City Served Name
+",INVENTORY_CHANGE_TRIGGER,
+TRIGGER_NAME,PRINCNTYSVDNAME,"Generate Derived Principal County Served Name
+",INVENTORY_CHANGE_TRIGGER,
+TRIGGER_NAME,TTLSTRGCAPMSR,"Generate Derived Total Storage Capacity Measure
+",INVENTORY_CHANGE_TRIGGER,
+TYPE,O,"Other Package Type
+",SCHEDULE_PACKAGE,
+TYPE,T,"TOC Precursor Package
+",SCHEDULE_PACKAGE,
+TYPE_CODE,01,"Letter to PWS from state
+",MILESTONE_EVENT,
+TYPE_CODE,04,"Administrative hearing - PWS & state
+",MILESTONE_EVENT,
+TYPE_CODE,07,"Other state administrative procedure
+",MILESTONE_EVENT,
+TYPE_CODE,10Y,"Every 10 years
+",MONITORING_PERIOD,
+TYPE_CODE,18M,"Every 18 Months
+",MONITORING_PERIOD,
+TYPE_CODE,19,"Explore alternate sources of water
+",MILESTONE_EVENT,
+TYPE_CODE,1T,"one time
+",MONITORING_PERIOD,
+TYPE_CODE,22,"Explore regional system development
+",MILESTONE_EVENT,
+TYPE_CODE,25,"Financial aid obtained
+",MILESTONE_EVENT,
+TYPE_CODE,28,"Treatment system designed
+",MILESTONE_EVENT,
+TYPE_CODE,2M,"Every 2 Months
+",MONITORING_PERIOD,
+TYPE_CODE,2W,"Every 2 Weeks
+",MONITORING_PERIOD,
+TYPE_CODE,2Y,"Every 2 years
+",MONITORING_PERIOD,
+TYPE_CODE,31,"Treatment system approved
+",MILESTONE_EVENT,
+TYPE_CODE,34,"Treatment system built
+",MILESTONE_EVENT,
+TYPE_CODE,37,"Periodic monitoring required
+",MILESTONE_EVENT,
+TYPE_CODE,3Y,"Every 3 Years
+",MONITORING_PERIOD,
+TYPE_CODE,4H,"every 4 Hours
+",MONITORING_PERIOD,
+TYPE_CODE,4Y,"Every 4 Years
+",MONITORING_PERIOD,
+TYPE_CODE,5Y,"Every 5 years
+",MONITORING_PERIOD,
+TYPE_CODE,6M,"every 6 Months
+",MONITORING_PERIOD,
+TYPE_CODE,6Y,"Every 6 years
+",MONITORING_PERIOD,
+TYPE_CODE,7Y,"Every 7 years
+",MONITORING_PERIOD,
+TYPE_CODE,8Y,"Every 8 years
+",MONITORING_PERIOD,
+TYPE_CODE,90,"Water systems report, in summary fashion, the ""90th percentile"" value to the states for compliance determination.  90th% is calculated by rank-ordering all of the results from required samples, and reporting the concentration that represents the 90th %.
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,95,"The 95th percentile value.
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,9Y,"Every 9 Years
+",MONITORING_PERIOD,
+TYPE_CODE,AC,"Administrative Contact - Identifies a legal entity as a contact of interest to the water system for potential notification of activities related to a specific water system.  An example is identifying an individual that may receive copies of correspondence.
+",PROGRAM_LEGAL_ENTITY_CONTACT,
+TYPE_CODE,AC,"Administrative Contact - Identifies a legal entity as a contact of interest to the water system for potential notification of activities related to a specific water system.  An example is identifying an individual that may receive copies of correspondence.
+",PROJECT_LEGAL_ENTITY_CONTACT,
+TYPE_CODE,AE,"Applied at entry point
+",DEVIATION,
+TYPE_CODE,AF,"Avoiding filtration
+",DEVIATION,
+TYPE_CODE,AG,"Agricultural
+",SERVICE_CONNECTION_CATEGORY,
+TYPE_CODE,AL,"Number of samples taken above the action level.
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,AL,"All
+",PROGRAM_LEGAL_ENTITY_CONTACT,
+TYPE_CODE,AL,"All
+",PROJECT_LEGAL_ENTITY_CONTACT,
+TYPE_CODE,AP,"Applied at plant
+",DEVIATION,
+TYPE_CODE,AR,"Alaskan Remote Village
+",GOVERNMENT_AGENCY,
+TYPE_CODE,ARV,"Alaskan Remote Village
+",GEOGRAPHIC_AREA,
+TYPE_CODE,AS,"Applied by seller
+",DEVIATION,
+TYPE_CODE,AT,"Authority
+",GOVERNMENT_AGENCY,
+TYPE_CODE,BB,"Batch Blank - Several types of blank samples are used for quality control of laboratory processes.
+",SAMPLE,
+TYPE_CODE,BR,"Borough
+",GOVERNMENT_AGENCY,
+TYPE_CODE,CB,"Total Number of Disinfectant Residual Measurements
+below 0.2 mg/L (count).
+
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,CB,"Combined
+",SERVICE_CONNECTION_CATEGORY,
+TYPE_CODE,CCSC,"Corrosion control study completed
+",MILESTONE_EVENT,
+TYPE_CODE,CCSR,"Corrosion control study required
+",MILESTONE_EVENT,
+TYPE_CODE,CD,"Congress District
+",GEOGRAPHIC_AREA,
+TYPE_CODE,CK,"Count of Check samples taken
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,CM,"Commission
+",GOVERNMENT_AGENCY,
+TYPE_CODE,CM,"Company
+",LEGAL_ENTITY,
+TYPE_CODE,CM,"Commercial
+",SERVICE_CONNECTION_CATEGORY,
+TYPE_CODE,CN,"County
+",GOVERNMENT_AGENCY,
+TYPE_CODE,CN,"Continuous - A reading from an on-site analyzer collected for water quality parameter measurements typically with SWTR compliance/turbidity.
+",SAMPLE,
+TYPE_CODE,CN,"County
+",GEOGRAPHIC_AREA,
+TYPE_CODE,CO,"Confirmation - Sample taken to confirm a previous sample analytical result.  The sample is taken at the same location as the earlier sample. This is sometimes known as a ""check sample"".
+",SAMPLE,
+TYPE_CODE,CP,"Cooperative
+",LEGAL_ENTITY,
+TYPE_CODE,CR,"Corporation
+",LEGAL_ENTITY,
+TYPE_CODE,CR,"Total Number of Disinfectant Residual Measurements (count).
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,CS,"Census Tract
+",GEOGRAPHIC_AREA,
+TYPE_CODE,CT,"City
+",GOVERNMENT_AGENCY,
+TYPE_CODE,CT,"City
+",GEOGRAPHIC_AREA,
+TYPE_CODE,CU90,"Copper 90th percentile action level exceedence
+",MILESTONE_EVENT,
+TYPE_CODE,D,"Standard Response used with Site Visits and Deficiencies
+",STANDARD_RESPONSE,
+TYPE_CODE,D,"Deleted
+",VIOLATION_STATUS,
+TYPE_CODE,DEEM,"System deemed optimized without Optimal Corrosion Control Treatment
+",MILESTONE_EVENT,
+TYPE_CODE,DL,"Daily
+",MONITORING_PERIOD,
+TYPE_CODE,DN,"Within 5 service connections Downstream
+",MONITORING_REQUIREMENT_LOCATION,
+TYPE_CODE,DONE,"System done with Optimal Corrosion Control Treatment
+",MILESTONE_EVENT,
+TYPE_CODE,DS,"Distribution System - the location is in the distribution system of the water system. Examples of this type of sampling point include sampling points for total coliform, lead and copper, and perhaps disinfection by-products (see several of the types below for more precise ways to define disinfection  by-products sampling points).
+",SAMPLING_POINT,
+TYPE_CODE,DS,"District
+",GOVERNMENT_AGENCY,
+TYPE_CODE,DS,"Distribution System Point
+",SAMPLING_POINT_HISTORY,
+TYPE_CODE,DS,"Distribution system
+",MONITORING_REQUIREMENT_LOCATION,
+TYPE_CODE,DS,"District
+",GEOGRAPHIC_AREA,
+TYPE_CODE,DU,"Duplicate - Sample collected for QA or enforcement purpose (i.e. two bottles are collected from a given flow, one is a ""duplicate"")
+",SAMPLE,
+TYPE_CODE,EN,"Enforcement
+",PROGRAM,
+TYPE_CODE,EP,"Entry Point - location at which water enters the distribution system of a public water system. This is intended to correspond to the regulatory definition of an entry point to the distribution system representative of one or more sources of water. These should not be associated to Distribution System facilities but rather to the facility from which the water is flowing (e.g., a treatment plant, a well (if not treated prior to distribution), a common header).
+",SAMPLING_POINT,
+TYPE_CODE,EP,"Entry Point - The location at which raw (untreated) or finished (treated) water enters the distribution system of a PWS 
+",SAMPLING_POINT_HISTORY,
+TYPE_CODE,EP,"Entry point
+",MONITORING_REQUIREMENT_LOCATION,
+TYPE_CODE,EX,"Exemption
+",DEVIATION,
+TYPE_CODE,F,"Finished Schedule (within a TOC Schedule Package). 
+",SCHEDULE_PACKAGE_ROLE,
+TYPE_CODE,FA,"Franchise Area
+",GEOGRAPHIC_AREA,
+TYPE_CODE,FB,"Field Blank - Several types of blank samples are used for quality control of laboratory processes.
+",SAMPLE,
+TYPE_CODE,FC,"The first customer after the entry point into the distribution system.  While, this site is specifically needed for chlorite and chlorine dioxide distribution system samples, it may have other uses.
+",SAMPLING_POINT,
+TYPE_CODE,FC,"The first customer after the entry point into the distribution system.  While, this site is specifically needed for chlorite and chlorine dioxide distribution system samples, it may have other uses.
+",SAMPLING_POINT_HISTORY,
+TYPE_CODE,FC,"Financial Contact
+",PROGRAM_LEGAL_ENTITY_CONTACT,
+TYPE_CODE,FC,"Financial Contact
+",PROJECT_LEGAL_ENTITY_CONTACT,
+TYPE_CODE,FD,"Federal
+",GOVERNMENT_AGENCY,
+TYPE_CODE,FE,"Federal
+",PROJECT,
+TYPE_CODE,FI,"Fiscal, budgetting
+",PROGRAM,
+TYPE_CODE,FV,"Count of days in Federal Violation period 
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,GA,"Government agency
+",LEGAL_ENTITY,
+TYPE_CODE,GC,"Group Contaminant
+",ANALYTE,
+TYPE_CODE,GR,"Grab - A single sample collected for water Quality parameter measurement (i.e. a four hour turbidity sample/SWTR.
+",SAMPLE,
+TYPE_CODE,HA,"Homeowners association
+",LEGAL_ENTITY,
+TYPE_CODE,HE,"Health effects research
+",PROGRAM,
+TYPE_CODE,HR,"Hourly
+",MONITORING_PERIOD,
+TYPE_CODE,HR,"High result for period (measure)
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,HU,"Hydrologic Unit
+",GEOGRAPHIC_AREA,
+TYPE_CODE,IN,"Individual
+",LEGAL_ENTITY,
+TYPE_CODE,IN,"Industrial
+",SERVICE_CONNECTION_CATEGORY,
+TYPE_CODE,IOC,"Inorganic Chemical
+",ANALYTE,
+TYPE_CODE,IR,"Indian Reservation
+",GEOGRAPHIC_AREA,
+TYPE_CODE,LC,"Laboratory Certification
+",PROGRAM,
+TYPE_CODE,LC,"Legal Contact - An individual or other legal entity that is designated by the water system contact by regulatory agencies regarding legal or enforcement issues.
+",PROGRAM_LEGAL_ENTITY_CONTACT,
+TYPE_CODE,LC,"Legal Contact - Identifies the individual or other legal entity designated by the water system as the primary contact for any legal or enforcement actions.
+",PROJECT_LEGAL_ENTITY_CONTACT,
+TYPE_CODE,LD,"Lowest Disinfectant Residual - the location where the disinfectant residual is the lowest. This type of sampling point comes directly out of the Revisions to the UCMR (September 17, 1999) where the preamble explains: ""Some public commenters suggested that sampling for microbiological contaminants not occur at the maximum residence time in the distribution system, but at the point of lowest disinfectant residual, since the monitoring of concern is for effectiveness of treatment and booster disinfection stations that  may be in use in long distribution lines. In response, EPA added another sampling point at the ??lowest disinfectant residual?? in the distribution system for trihalomethane (THM) (Disinfectant By-Product (DPB) Rule) and/or Total Coliform Sampling.
+",SAMPLING_POINT,
+TYPE_CODE,LD,"Lowest disinfectant residual - The location where the disinfectant residual is the lowest as approved by the State for THM (DPB) and/or Total Coliform Sampling
+",SAMPLING_POINT_HISTORY,
+TYPE_CODE,LR,"Low result for period (measure)
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,LSLR,"Lead service line replacement required
+",MILESTONE_EVENT,
+TYPE_CODE,MD,"Midpoint in the Distribution System - the Unregulated Contaminant Monitoring Rule location at which the chlorine residual would be expected to be typical for the system. This could also be used to designate those sampling points that are considered ""representative points in the distribution system"" under the Disinfection By-Products Rules.
+",SAMPLING_POINT,
+TYPE_CODE,MD,"Midpoint in the distribution system - The location at which the chlorine residual would be expected to be typical for the system, such as the location for Total Coliform sampling as described in 40 CFR 141.21, Chapter 1 (7-1-99 edition).
+",SAMPLING_POINT_HISTORY,
+TYPE_CODE,MIF,"Must install filtration
+",MILESTONE_EVENT,
+TYPE_CODE,MN,"Monthly
+",MONITORING_PERIOD,
+TYPE_CODE,MN,"Municipality
+",GOVERNMENT_AGENCY,
+TYPE_CODE,MOR,"Microbiological Organism
+",ANALYTE,
+TYPE_CODE,MPLS,"Maximum permissible levels in source water
+",MILESTONE_EVENT,
+TYPE_CODE,MR,"Point of Maximum Retention - the location that represents the maximum residence time of disinfectants within the distribution system under the Disinfection By-Products Rules. This can also be used as the Unregulated Contaminant Monitoring Rule location in the distribution system that is furthest from the entry point to the distribution.
+",SAMPLING_POINT,
+TYPE_CODE,MR,"Mean (average) result for period (measure)
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,MR,"Point of Maximum Retention - the UCMR location furthest from the entry point to the distribution system as approved by the State for THM (DPB) and/or Total Coliform Sampling.
+",SAMPLING_POINT_HISTORY,
+TYPE_CODE,MR,"Maximum Residence Time - Maximum Residence Time samples measure trihalomethanes present in a water system's distribution system. These samples are collected at a point representing the longest time between treatment, storage, and use. Formation of trihalomethanes over time results from disinfectant residual, organic content, and residence time.
+",SAMPLE,
+TYPE_CODE,MS,"Matrix spike
+",SAMPLE,
+TYPE_CODE,MSA,"Metropolitan Statistical Area
+",GEOGRAPHIC_AREA,
+TYPE_CODE,NA,"Not Applicable - No Mon
+",MONITORING_PERIOD,
+TYPE_CODE,NA,"Native American Tribe
+",GOVERNMENT_AGENCY,
+TYPE_CODE,ND,"Count of negative sample analytical results from distribution system samples
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,NE,"Count of negative sample analytical results
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,NF,"Count of negative finished water samples
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,NF,"Near the first service connection
+",MONITORING_REQUIREMENT_LOCATION,
+TYPE_CODE,NP,"Non-profit
+",LEGAL_ENTITY,
+TYPE_CODE,NR,"Count of negative raw water samples
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,NRD,"Natural Resource District
+",GEOGRAPHIC_AREA,
+TYPE_CODE,NS,"Not subject to surface water treatment rule
+",DEVIATION,
+TYPE_CODE,NT,"Non-Transient (For example, industrial/agricultural, medical facility, school)
+",POPULATION_SERVED,
+TYPE_CODE,OC,"Organic Chemical
+",ANALYTE,
+TYPE_CODE,OR,"Original location
+",MONITORING_REQUIREMENT_LOCATION,
+TYPE_CODE,OT,"Other
+",ANALYTE,
+TYPE_CODE,OT,"Other
+",LEGAL_ENTITY,
+TYPE_CODE,OTDE,"Optimal Corrosion Control Treatment designated and approved
+",MILESTONE_EVENT,
+TYPE_CODE,OTIN,"Optimal Corrosion Control Treatment installed
+",MILESTONE_EVENT,
+TYPE_CODE,P,"Potential
+",VIOLATION_STATUS,
+TYPE_CODE,P,"Principal Schedule (within a Schedule Package).  
+",SCHEDULE_PACKAGE_ROLE,
+TYPE_CODE,PB90,"Lead 90th percentile action level exceedence
+",MILESTONE_EVENT,
+TYPE_CODE,PC,"Process Control - locations normally associated with treatment plants or storage water system facilities.  This sampling point type is used to demonstrate compliance with contact time or other disinfectant or treatment requirements.
+",SAMPLING_POINT,
+TYPE_CODE,PC,"Process Control - This sampling point type is used to demonstrate compliance with CT or other disinfectant or treatment requirements.  These points would normally be associated with treatment plants or storate water system facilities.
+",SAMPLING_POINT_HISTORY,
+TYPE_CODE,PC,"Primary Contact - An individual or other legal entity that is most often contacted in a water system.
+",PROGRAM_LEGAL_ENTITY_CONTACT,
+TYPE_CODE,PC,"Primary Contact - Identifies an individual or other legal entity as the first person to contact regarding any issue relative to a water system.
+",PROJECT_LEGAL_ENTITY_CONTACT,
+TYPE_CODE,PE,"Performance Evaluation - Performance evaluation samples are used for quality control of laboratory processes. The labs receive samples for analysis from the U.S. Environmental Protection Agency or other certifying agency. Results are compared against standards to determine if labs follow accurate and consistent analysis procedures.
+",SAMPLE,
+TYPE_CODE,PO,"Count of number of positive sample analytical results
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,PP,"Power Production
+",SERVICE_CONNECTION_CATEGORY,
+TYPE_CODE,PR,"Parish
+",GOVERNMENT_AGENCY,
+TYPE_CODE,QT,"Quarterly
+",MONITORING_PERIOD,
+TYPE_CODE,R,"Residential (For example, residential area, mobile home park, municipality)
+",POPULATION_SERVED,
+TYPE_CODE,R,"Rejected
+",VIOLATION_STATUS,
+TYPE_CODE,R,"Raw supporting Schedule (within a TOC Schedule Package). 
+",SCHEDULE_PACKAGE_ROLE,
+TYPE_CODE,RA,"Radionuclide
+",ANALYTE,
+TYPE_CODE,RC,"Regulatory Contact - An individual or other legal entity that is designated by the water system for contact regarding implementation or interpretation of regulations.
+",PROGRAM_LEGAL_ENTITY_CONTACT,
+TYPE_CODE,RC,"Regulatory Contact - Identifies an individual or other legal entity as the primary contact for the interprtation or implementation of regulations.
+",PROJECT_LEGAL_ENTITY_CONTACT,
+TYPE_CODE,RE,"Regulatory
+",PROGRAM,
+TYPE_CODE,RF,"Count of required Repeats per Federal regulation
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,RG,"Region
+",GOVERNMENT_AGENCY,
+TYPE_CODE,RG,"Region
+",GEOGRAPHIC_AREA,
+TYPE_CODE,RI,"Replacement for Invalid - A sample that is taken to replace a sample previously taken and analyzed by the lab as ""Invalid"" (usually because of TNTC or Confluent Growth).
+",SAMPLE,
+TYPE_CODE,RI,"Count of Replacements Samples for Invalid 
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,RJ,"Count of Rejected samples
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,RL,"Rule based 
+",ANALYTE,
+TYPE_CODE,RL,"Replacement
+",SAMPLE,
+TYPE_CODE,RL,"Count of Replacement Samles
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,RP,"Repeat - Repeat samples are collected when a routine sample exceeds trigger, action, or maximum contaminant levels. Additional sampling is required to further identify and define potential water quality problems.
+",SAMPLE,
+TYPE_CODE,RP,"Count of Repeat samples
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,RS,"Residential
+",SERVICE_CONNECTION_CATEGORY,
+TYPE_CODE,RS,"Count of required Repeats per State regulation
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,RT,"Routine - Routine samples are typically collected for compliance with monitoring rules and used in maximum contaminant level (MCL) compliance calculations.
+",SAMPLE,
+TYPE_CODE,RT,"Count of Routine samples with negative results taken from the distribution system.
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,RU,"Rate Set utility
+",LEGAL_ENTITY,
+TYPE_CODE,RW,"Raw Water Source - locations normally associated with intake or well water system facilities. Raw water monitoring is triggered by the detection of a contaminant at an entry point to the distribution system. This Sampling Point type can also be used to designate the raw water sampling point for precursor removal.
+",SAMPLING_POINT,
+TYPE_CODE,RW,"Raw Water Source - Associated with high turbidity due to runoff events.  Raw water monitoring is triggered (in the rules) by such events or by coliform presence.  RW sampling points are normally associated with intake or well water system facilities.
+",SAMPLING_POINT_HISTORY,
+TYPE_CODE,S,"Supporting Schedule (within a Schedule Package)
+",SCHEDULE_PACKAGE_ROLE,
+TYPE_CODE,SA,"State Administrative District
+",GOVERNMENT_AGENCY,
+TYPE_CODE,SA,"Set Aside Schedule
+",DEVIATION,
+TYPE_CODE,SB,"Shipping Blank - Several types of blank samples are used for quality control of laboratory processes.
+",SAMPLE,
+TYPE_CODE,SD,"School District
+",GOVERNMENT_AGENCY,
+TYPE_CODE,SD,"Subdivision
+",GEOGRAPHIC_AREA,
+TYPE_CODE,SHD,"State House District
+",GEOGRAPHIC_AREA,
+TYPE_CODE,SL,"Split - A sample collected for QA or enforcement purposes (i.e. two bottles are decanted from a single bottle each called a ""split"".)
+",SAMPLE,
+TYPE_CODE,SP,"Special - Special samples are usually collected for reasons other than compliance determination and are typically used for process control or quality checks following maintenance or new construction in the treatment or distribution system.
+",SAMPLE,
+TYPE_CODE,SP,"Count of Special samples
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,SP,"Special
+",PROJECT,
+TYPE_CODE,SR,"Source Water Point - defined in the Unregulated Contaminant Monitoring Rule as the location at which untreated water is collected at the source.
+",SAMPLING_POINT,
+TYPE_CODE,SR,"State Administrative Region
+",GOVERNMENT_AGENCY,
+TYPE_CODE,SR,"Source -The location at which untreated water is collected at the source
+",SAMPLING_POINT_HISTORY,
+TYPE_CODE,SR,"Count of samples required
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,SR,"Source sampling point
+",MONITORING_REQUIREMENT_LOCATION,
+TYPE_CODE,SS,"State Senate District
+",GEOGRAPHIC_AREA,
+TYPE_CODE,ST,"State
+",GOVERNMENT_AGENCY,
+TYPE_CODE,ST,"Split
+",SAMPLE,
+TYPE_CODE,ST,"State
+",PROJECT,
+TYPE_CODE,ST,"State
+",GEOGRAPHIC_AREA,
+TYPE_CODE,STDE,"Source Water Treatment designated and approved
+",MILESTONE_EVENT,
+TYPE_CODE,STIN,"Source Water Treatment installed
+",MILESTONE_EVENT,
+TYPE_CODE,SV,"Count of days in State Violation period
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,T,"Transient (For example, recreation area, highway rest area, hotel/motel)
+",POPULATION_SERVED,
+TYPE_CODE,TA,"Technical Assistance
+",PROGRAM,
+TYPE_CODE,TO,"Count of total samples collected 
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,TP,"Treatment Plant
+",LEGAL_ENTITY,
+TYPE_CODE,TR,"Trust
+",LEGAL_ENTITY,
+TYPE_CODE,TR,"Treatment technology research
+",PROGRAM,
+TYPE_CODE,TW,"Town
+",GOVERNMENT_AGENCY,
+TYPE_CODE,TW,"Turbidity waiver
+",DEVIATION,
+TYPE_CODE,TW,"Township
+",GEOGRAPHIC_AREA,
+TYPE_CODE,UA,"Unincorporated Area
+",GEOGRAPHIC_AREA,
+TYPE_CODE,UP,"Unit Process - a sampling point used to evaluate the effectiveness of a unit process. This type might be used, for instance, to determine the contact time under the SWTR for a single unit process.
+",SAMPLING_POINT,
+TYPE_CODE,UP,"Unit Process Point
+",SAMPLING_POINT_HISTORY,
+TYPE_CODE,UP,"Within 5 service connections Upstream
+",MONITORING_REQUIREMENT_LOCATION,
+TYPE_CODE,V,"Valid assignment between MBS_VIOLATION_TYPE and RULE
+",VIOLATION_TYPE_RULE_ASGMT,
+TYPE_CODE,V,"Standard Response used with Violations and Enforcement Actions
+",STANDARD_RESPONSE,
+TYPE_CODE,V,"Valid
+",VIOLATION_STATUS,
+TYPE_CODE,VA,"Variance
+",DEVIATION,
+TYPE_CODE,VA,"Vulnerability Assessement
+",PROGRAM,
+TYPE_CODE,VI,"Count of days of Violation Period
+",SAMPLE_SUMMARY_RESULT,
+TYPE_CODE,W,"Wholesale (For example, seller of water)
+",POPULATION_SERVED,
+TYPE_CODE,WA,"Waiver
+",PROGRAM,
+TYPE_CODE,WD,"Water District
+",GOVERNMENT_AGENCY,
+TYPE_CODE,WD,"Water District
+",GEOGRAPHIC_AREA,
+TYPE_CODE,WH,"Well head protection
+",PROGRAM,
+TYPE_CODE,WK,"Weekly
+",MONITORING_PERIOD,
+TYPE_CODE,WQ,"Water Quality
+",ANALYTE,
+TYPE_CODE,WQPS,"Water quality parameters
+",MILESTONE_EVENT,
+TYPE_CODE,WS,"Water System Facility Point
+",SAMPLING_POINT,
+TYPE_CODE,WS,"Water System
+",LEGAL_ENTITY,
+TYPE_CODE,WS,"Water System Facility Point
+",SAMPLING_POINT_HISTORY,
+TYPE_CODE,X,"Specifies that the violation compliance period begin date must fall within the BEGIN_DATE and END_DATE of this entity type.
+",ENF_VIOLATION_CRITERION_NOT_IMP,
+TYPE_CODE,YR,"Yearly
+",MONITORING_PERIOD,
+TYPE_CODE,Z,"Specifies the violation type, violation compliance period BEGIN_DATE and contaminant
+of the relevant violation.
+",ENF_VIOLATION_CRITERION_NOT_IMP,
+UOM_CODE,%LUM,"Percent of luminance--(for measuring color)
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,%LUM,"Percent of luminance--(for measuring color)
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,%LUM,"Percent of luminance--(for measuring color)
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,%LUM,"Percent of luminance--(for measuring color)
+",MCL_VALUE,
+UOM_CODE,%PUR,"Percent of purity--(for measuring color)
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,%PUR,"Percent of purity--(for measuring color)
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,%PUR,"Percent of purity--(for measuring color)
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,%PUR,"Percent of purity--(for measuring color)
+",MCL_VALUE,
+UOM_CODE,ADMIU,"American Dye Manufacturers Institute units -- (fro measuring color)
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,ADMIU,"American Dye Manufacturers Institute units -- (fro measuring color)
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,ADMIU,"American Dye Manufacturers Institute units -- (for measuring color)
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,ADMIU,"American Dye Manufacturers Institute units -- (fro measuring color)
+",MCL_VALUE,
+UOM_CODE,AGGR,"Aggressive Index (for Corrosivity)
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,AGGR,"Aggressive Index (for Corrosivity)
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,AGGR,"Aggressive Index (for Corrosivity)
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,AGGR,"Aggressive Index (for Corrosivity)
+",MCL_VALUE,
+UOM_CODE,C,"Degrees Celsius
+",MCL_VALUE,
+UOM_CODE,C,"Degrees Celsius
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,C,"Degrees Celsius
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,C,"Degrees Celsius
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,CM-1,"Total absorbance for ultraviolet light (a disinfectant)
+",MCL_VALUE,
+UOM_CODE,CM-1,"Total absorbance for ultraviolet light (a disinfectant)
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,CM-1,"Total absorbance for ultraviolet light (a disinfectant)
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,CM-1,"Total absorbance for ultraviolet light (a disinfectant)
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,COL/100ML,"Colonies Per 100 ml
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,COUNT,"Count / 100 ml
+",MCL_VALUE,
+UOM_CODE,COUNT,"Count / 100 ml
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,COUNT,"Count / 100 ml
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,COUNT/ML,"Organisms observed in a 1 mL aliquot (used for measuring heterotrophic bacteria (hpc or viruses))
+",MCL_VALUE,
+UOM_CODE,COUNT/ML,"Organisms observed in a 1 mL aliquot (used for measuring heterotrophic bacteria (hpc or viruses))
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,COUNT/ML,"Organisms observed in a 1 mL aliquot (used for measuring heterotrophic bacteria (hpc or viruses))
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,CT,"Contact Time (a disinfectant)
+",MCL_VALUE,
+UOM_CODE,CT,"Contact Time (a disinfectant)
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,CT,"Contact Time (a disinfectant)
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,CT,"Contact Time
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,CU,"Color Units (for color)
+",MCL_VALUE,
+UOM_CODE,CU,"Color Units (for color)
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,CU,"Color Units (for color)
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,CU,"Color Units (for color)
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,F,"Degrees Fahrenheit
+",MCL_VALUE,
+UOM_CODE,F,"Degrees Fahrenheit
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,F,"Degrees Fahrenheit
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,F,"Degrees Fahrenheit
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,FTU,"Flavor Threshold Units (for measuring Taste and Odor)
+",MCL_VALUE,
+UOM_CODE,FTU,"Flavor Threshold Units (for measuring Taste and Odor)
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,FTU,"Flavor Threshold Units (for measuring Taste and Odor)
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,FTU,"Flavor Threshold Units (FTU) (for measuring Taste and Odor)
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,GPD,"Gallons per day
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,L/MG-CM,"Liter per Milligram-Centimeter
+",MCL_VALUE,
+UOM_CODE,L/MG-CM,"Liter per Milligram-Centimeter
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,L/MG-CM,"Liter per Milligram-Centimeter
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,L/MG-CM,"Liter per Milligram-Centimeter
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,L/MG-M,"Liter per Milligram-Meter
+",MCL_VALUE,
+UOM_CODE,L/MG-M,"Liter per Milligram-Meter
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,L/MG-M,"Liter per Milligram-Meter
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,L/MG-M,"Liter per Milligram-Meter
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,LANG,"Langelier Index (for measuring Corrosivity)
+",MCL_VALUE,
+UOM_CODE,LANG,"Langelier Index (for measuring Corrosivity)
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,LANG,"Langelier Index (for measuring Corrosivity)
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,LANG,"Langelier Index (for measuring Corrosivity)
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,LBS/CFT,"Pounds per cubic foot (for measuring density)
+",MCL_VALUE,
+UOM_CODE,LBS/CFT,"Pounds per cubic foot (for measuring density)
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,LBS/CFT,"Pounds per cubic foot (for measuring density)
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,LBS/CFT,"Pounds per cubic foot (for measuring density)
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,LBS/GAL,"Pounds per gallon (for measuring density)
+",MCL_VALUE,
+UOM_CODE,LBS/GAL,"Pounds per gallon (for measuring density)
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,LBS/GAL,"Pounds per gallon (for measuring density)
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,LBS/GAL,"Pounds per gallon (for measuring density)
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,MFL,"Millions of fibers per liter (for measuring asbestos)
+",MCL_VALUE,
+UOM_CODE,MFL,"Millions of fibers per liter (for measuring asbestos)
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,MFL,"Millions of fibers per liter (for measuring asbestos)
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,MFL,"Millions of fibers per liter (MFL) (for measuring asbestos)
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,MG/L,"Milligrams per liter; AKA Parts per million (ppm).  Also a measure of disinfectant concentration.
+",MCL_VALUE,
+UOM_CODE,MG/L,"Milligrams per liter; AKA Parts per million (ppm).  Also a measure of disinfectant concentration.
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,MG/L,"Milligrams per liter; AKA Parts per million (ppm).  Also a measure of disinfectant concentration.
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,MG/L,"Milligrams per liter; AKA Parts Per Million (ppm).  Also a measure of disinfectant concentration.
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,MGD,"Million gallons per day
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,MREM,"Millirems
+",MCL_VALUE,
+UOM_CODE,MREM,"Millirems
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,MREM,"Millirems
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,MREM,"Millirems
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,MREMY,"Millirems per year
+",MCL_VALUE,
+UOM_CODE,MREMY,"Millirems per year
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,MREMY,"Millirems per year
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,MREMY,"Millirems per year
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,NG/L,"Nanograms per liter; AKA parts per trillion (ppt)
+",MCL_VALUE,
+UOM_CODE,NG/L,"Nanograms per liter; AKA parts per trillion (ppt)
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,NG/L,"Nanograms per liter; AKA parts per trillion (ppt)
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,NG/L,"Nanograms per liter; AKA Parts per trillion (ppt)
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,NM,"Nanometers (to measure color wave length)
+",MCL_VALUE,
+UOM_CODE,NM,"Nanometers (to measure color wave length)
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,NM,"Nanometers (to measure color wave length)
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,NM,"Nanometers -- to measure color wave length
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,NTU,"Nephlometric Turbidity Units
+",MCL_VALUE,
+UOM_CODE,NTU,"Nephlometric Turbidity Units
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,NTU,"Nephlometric Turbidity Units
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,NTU,"Nephlometric Turbidity Units
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,OBSVNS,"Observations/field at 100 power
+",MCL_VALUE,
+UOM_CODE,OBSVNS,"Observations/field at 100 power
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,OBSVNS,"Observations/field at 100 power
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,OBSVNS,"Observations/field at 100 power
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,PCI/L,"Picocurie per Liter
+",MCL_VALUE,
+UOM_CODE,PCI/L,"Picocuries per liter
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,PCI/L,"Picocurie per Liter
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,PCI/L,"Picocuries per liter
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,PH,"pH units (parts Hydrogen - pH (0-14))
+",MCL_VALUE,
+UOM_CODE,PH,"pH units (parts Hydrogen - pH (0-14))
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,PH,"pH units (parts Hydrogen - pH (0-14))
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,PH,"pH units (Parts Hydrogen - pH (0 - 14))
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,RATIO,"Ratio
+",MCL_VALUE,
+UOM_CODE,RATIO,"Ratio
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,RATIO,"Ratio
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,RATIO,"Ratio
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,SU,"Standard Units (for color)
+",MCL_VALUE,
+UOM_CODE,SU,"Standard Units (for color)
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,SU,"Standard Units (for color)
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,SU,"Standard Units (for Color)
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,TON,"Threshold Odor Number (for odor)
+",MCL_VALUE,
+UOM_CODE,TON,"Threshold Odor Number (for odor)
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,TON,"Threshold Odor Number (for odor)
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,TON,"Threshold Odor Number (for odor)
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,UG/L,"Micrograms per liter; AKA parts per billion (ppb).
+",MCL_VALUE,
+UOM_CODE,UG/L,"Micrograms per liter; AKA parts per billion (ppb).
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,UG/L,"Micrograms per liter; AKA parts per billion (ppb).
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,UG/L,"Micrograms per liter; AKA Parts per Billion (ppb)
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,UMHO/CM,"Measurement unit for measuring Conductivity
+",MCL_VALUE,
+UOM_CODE,UMHO/CM,"Measurement unit for measuring Conductivity
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,UMHO/CM,"Measurement unit for measuring Conductivity
+",MONITORING_PERIOD_AVERAGE,
+UOM_CODE,UMHO/CM,"Measurement unit for measuring Conductivity
+",FACILITY_ANALYTE_LEVEL,
+UOM_CODE,UNITS,"Means for representing the magnitude (for pH or Color)
+",MCL_VALUE,
+UOM_CODE,UNITS,"Means for representing the magnitude (for pH or Color)
+",ANALYTE_LEVEL_RULE_ASGMT,
+UOM_CODE,UNITS,"Means for representing the magnitude (for pH or Color)
+",MONITORING_PERIOD_AVERAGE,
+USER_ASSIGNED_SSMPA_INDICATOR,N,"User explicitly selected/changed the associated monitoring period; however, the SSMPA record was then deleted (due to a schedule or monitoring period being deleted).  Prior to deleting the associated SSMPA from a sample result where this field is set to Y, CDS Setup will change value to N.
+",SAMPLE_ANALYTICAL_RESULT,
+USER_ASSIGNED_SSMPA_INDICATOR,Y,"User explicitly selected/changed the associated monitoring period.  CDS Setup should not change it.
+",SAMPLE_ANALYTICAL_RESULT,
+WATER_QUANTITY_MEASURE_UNIT,GAL,"Gallons
+",WATER_SYS_FACILITY_FLOW,
+WATER_QUANTITY_MEASURE_UNIT,GPD,"Gallons per day-GPD
+",WATER_SYS_FACILITY_FLOW,
+WATER_QUANTITY_MEASURE_UNIT,GPM,"Gallons per minute
+",WATER_SYS_FACILITY_FLOW,
+WATER_TYPE_CODE,GU,"Ground water under direct influence of surface water
+",WSF_DELETIONS,
+WATER_TYPE_CODE,GU,"Ground water under direct influence of surface water
+",WATER_SYSTEM_FACILITY,
+WATER_TYPE_CODE,GU,"Ground water under direct influence of surface water
+",WATER_SYSTEM_FACILITY_HISTORY,
+WATER_TYPE_CODE,GW,"Ground water
+",WSF_DELETIONS,
+WATER_TYPE_CODE,GW,"Ground water
+",WATER_SYSTEM_FACILITY,
+WATER_TYPE_CODE,GW,"Ground water
+",WATER_SYSTEM_FACILITY_HISTORY,
+WATER_TYPE_CODE,SW,"Surface water
+",WSF_DELETIONS,
+WATER_TYPE_CODE,SW,"Surface water
+",WATER_SYSTEM_FACILITY,
+WATER_TYPE_CODE,SW,"Surface water
+",WATER_SYSTEM_FACILITY_HISTORY,
+WS_FEDTYPE_CODE,C,"Community water system
+",WATER_SYSTEM_GROUP,
+WS_FEDTYPE_CODE,CN,"Community and Non-Community Non-transient water systems
+",WATER_SYSTEM_GROUP,
+WS_FEDTYPE_CODE,CNC,"Community and Non-community transient water systems
+",WATER_SYSTEM_GROUP,
+WS_FEDTYPE_CODE,CNN,"Community, Non-community transient and Non-Community Non-transient water systems
+",WATER_SYSTEM_GROUP,
+WS_FEDTYPE_CODE,NC,"Non-community transient water system
+",WATER_SYSTEM_GROUP,
+WS_FEDTYPE_CODE,NN,"Non-Community Transient and Non-Community Non-transient water systems
+",WATER_SYSTEM_GROUP,
+WS_FEDTYPE_CODE,NP,"Non-public water system
+",WATER_SYSTEM_GROUP,
+WS_FEDTYPE_CODE,NTNC,"Non-Community Non-transient water system
+",WATER_SYSTEM_GROUP,
+WS_PRIME_SOURCE_TYPE_CODE,AGU,"(All Groundwater) UDI Surface Water - Groundwater UDI Surface Water or Purchased Groundwater UDI Surface Water.
+",WATER_SYSTEM_GROUP,
+WS_PRIME_SOURCE_TYPE_CODE,AWG,"(All Groundwater) - Groundwater or Purchased Groundwater.
+",WATER_SYSTEM_GROUP,
+WS_PRIME_SOURCE_TYPE_CODE,AWS,"(All Surface Water) - Surface Water or Purchased Surface Water.
+",WATER_SYSTEM_GROUP,
+WS_PRIME_SOURCE_TYPE_CODE,GU,"Groundwater UDI Surface Water
+",WATER_SYSTEM_GROUP,
+WS_PRIME_SOURCE_TYPE_CODE,GUP,"Purchased Groundwater UDI Surface Water
+",WATER_SYSTEM_GROUP,
+WS_PRIME_SOURCE_TYPE_CODE,GW,"Groundwater
+",WATER_SYSTEM_GROUP,
+WS_PRIME_SOURCE_TYPE_CODE,GWP,"Purchased Groundwater
+",WATER_SYSTEM_GROUP,
+WS_PRIME_SOURCE_TYPE_CODE,PSH,"(Purchased Subpart H) - Purchased Surface Water or Purchased Groundwater UDI Surface Water.
+",WATER_SYSTEM_GROUP,
+WS_PRIME_SOURCE_TYPE_CODE,SPH,"(Subpart H) - Surface Water or Groundwater UDI Surface Water or Purchased Surface Water, or Purchased Surface Water or Purchased Groundwater UDI Surface Water.
+",WATER_SYSTEM_GROUP,
+WS_PRIME_SOURCE_TYPE_CODE,SSH,"(Source Subpart H) - Surface Water or Groundwater UDI Surface Water.
+",WATER_SYSTEM_GROUP,
+WS_PRIME_SOURCE_TYPE_CODE,SW,"Surface Water
+",WATER_SYSTEM_GROUP,
+WS_PRIME_SOURCE_TYPE_CODE,SWP,"Purchased Surface Water
+",WATER_SYSTEM_GROUP,
+WS_STATUS_CODE,A,"Active
+",WATER_SYSTEM_GROUP,
+WS_STATUS_CODE,I,"Inactive
+",WATER_SYSTEM_GROUP,
+WS_STATUS_CODE,M,"Merged
+",WATER_SYSTEM_GROUP,
+WS_STATUS_CODE,P,"Proposed
+",WATER_SYSTEM_GROUP,
+WSF_TINWSF_STATUS_CODE,A,"Active
+",CDS_CANDIDATE_VIOLATION,
+WSF_TINWSF_STATUS_CODE,I,"Inactive
+",CDS_CANDIDATE_VIOLATION,
+WSF_TINWSF_STATUS_CODE,P,"Proposed
+",CDS_CANDIDATE_VIOLATION,
