@@ -32,10 +32,9 @@ A try at predicting violations of maximum contaminant levels in US drinking wate
 
 ### Training and Model Selection
 
-* train on 2006-2016
-* validate on 2017
-* test on 2018
+* regression? e.g SVR. train on 2006-2016, validate on 2017, test on 2018 ?
+* classification? logistic, gradient boosting, ... ==> train on year y, with features from year y and y-1 and evaluate on year y+1
 * try logistic regression and gradient boosting, as can see what features are most relevant
 * use gridsearchCV
-* second-step of feature selection?
+* second-step/several of feature selection?
 
