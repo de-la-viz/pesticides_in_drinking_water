@@ -5,6 +5,8 @@ A try at predicting violations of maximum contaminant levels in US drinking wate
 
 ### Data Extraction
 
+Notebook: https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Data_Extraction.ipynb
+
 * Directly from SDWIS using their API
 * Water_System and Violations tables, merge by PWSID
 * Select a First a few number of features that seem to be relevant
