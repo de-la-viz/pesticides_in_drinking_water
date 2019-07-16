@@ -4,9 +4,7 @@ A try at predicting violations of drinking water in New England's water systems.
 
 **The procedure and results of this analysis are summarized in [this presentation](https://docs.google.com/presentation/d/1_BFCSApEwgKDsnK_6E4I5ZDO8wfYpLv-QmWbZlTdxt4/edit?usp=sharing).**
 
-Please reach out for any comment or question!  
-François  
-[@f_delavy](https://twitter.com/f_delavy)  
+
 
 
 
