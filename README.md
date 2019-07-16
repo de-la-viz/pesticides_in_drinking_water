@@ -22,5 +22,5 @@ Data processing is done and explained in [this notebook](https://github.com/de-l
 
 ## Classification
 
-The classification and prediction is done is done in [this notebook](https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Classification.ipynb).
+The classification and prediction is done in [this notebook](https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Classification.ipynb).
 
