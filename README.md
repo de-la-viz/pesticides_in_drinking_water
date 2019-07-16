@@ -1,42 +1,20 @@
 # Pesticides in Drinking Water
-A try at predicting violations of maximum contaminant levels in US drinking water by pesticides.
 
-## Strategy
+A try at predicting violations of drinking water in New England's water systems. In addition, I also try to predict the violations of maximum contaminant levels in New England's water systems by pesticides.  
 
-### Data Extraction
+The procedure and results of this analysis are summarized in (this presentation)[https://docs.google.com/presentation/d/1_BFCSApEwgKDsnK_6E4I5ZDO8wfYpLv-QmWbZlTdxt4/edit?usp=sharing].
 
-Notebook: https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Data_Extraction.ipynb
+## Data
 
-* Directly from SDWIS using their API
-* Water_System and Violations tables, merge by PWSID
-* Select a First a few number of features that seem to be relevant
-* Filter the violations to get only the/some pesticides
-* Focus on New England (EPA region 1), to reduce amount of data
-* 2009-2018
-* Download [Estimate Use of Pesticides by County](https://water.usgs.gov/nawqa/pnsp/usage/maps/county-level/)
-* Merge pesticide use to drinking water violations by [matching counties and ZIP codes](https://wonder.cdc.gov/wonder/sci_data/codes/fips/type_txt/cntyxref.asp)
-* Final dataset is one line per water system, summing pesticides MCLs violations (or binarized), evtl. with dummy for the contaminants.
+The data is coming from SDWIS, all the extraction is described in (this notebook)[https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Data_Extraction.ipynb].
 
-### Feature Selection and Engineering
+Estimates of pesticides used are downloaded from the National Water-Quality Assessment ((NAWQA)[https://water.usgs.gov/nawqa/pnsp/usage/maps/county-level/]) Project
 
-* Select a First a few number of features that seem to be relevant
-* add dummies for year, quarter
-* add neighboring water systems, if previous violations in them
-* add column with pesticide use by ZIP (water system)
-* verify that there is a minimum of correlation with outcome
+## Feature Selection and Engineering
 
-### Handling Class Imbalance
+Data processing is done and explained in (this notebook)[https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Data_Processing_and_Feature_Engineering.ipynb]
 
-* instead of accuracy, use precision or recall
-* oversample minority class or undersample majority class?
-* Try SMOTE - Synthetic Minority Over-sampling Technique?
-* Look and be inspired by kaggle _credit card fraud detection_. How did they handle class imbalance? Look at the kernels people have uploaded.
+## Classification
 
-### Training and Model Selection
-
-* regression? e.g SVR. train on 2006-2016, validate on 2017, test on 2018 ?
-* classification? logistic, gradient boosting, ... ==> train on year y, with features from year y and y-1 and evaluate on year y+1
-* try logistic regression and gradient boosting, as can see what features are most relevant
-* use gridsearchCV
-* second-step/several of feature selection?
+The classification and prediction is done is done in (this notebook)[https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Classification.ipynb]
 
