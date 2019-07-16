@@ -8,13 +8,13 @@ Please reach out for any comment or question!
 François
 
 
-## Data
+## Data Extraction
 
 The data is coming from SDWIS, all the extraction is described in [this notebook](https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Data_Extraction.ipynb).
 
 Estimates of pesticides used are downloaded from the National Water-Quality Assessment ([NAWQA](https://water.usgs.gov/nawqa/pnsp/usage/maps/county-level/)) Project.
 
-## Feature Selection and Engineering
+## Data Processing and Feature Engineering
 
 Data processing is done and explained in [this notebook](https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Data_Processing_and_Feature_Engineering.ipynb).
 
