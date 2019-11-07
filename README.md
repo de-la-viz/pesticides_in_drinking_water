@@ -22,3 +22,6 @@ Data processing is done and explained in [this notebook](https://github.com/de-l
 
 The classification and prediction is done in [this notebook](https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Classification.ipynb).
 
+## Slides
+
+![img](documents/slides%20as%20png/Predicting%20Drinking%20Water%20Quality%20Violations%20in%20New%20England%20(1).png)
