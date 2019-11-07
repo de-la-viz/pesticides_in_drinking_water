@@ -16,11 +16,7 @@ The aim is to predict which water systems are likely to be subject to violations
 
 ## Code
 
-The data is coming from SDWIS, all the extraction is described in [this notebook](https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Data_Extraction.ipynb). Pesticide use estimates are downloaded from the National Water-Quality Assessment ([NAWQA](https://water.usgs.gov/nawqa/pnsp/usage/maps/county-level/)) Project.
-
-Data processing is done and explained in [this notebook](https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Data_Processing_and_Feature_Engineering.ipynb).
-
-The classification and prediction is done in [this notebook](https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Classification.ipynb).
+The data is coming from SDWIS, all the extraction is described in [this notebook](https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Data_Extraction.ipynb). Pesticide use estimates are downloaded from the National Water-Quality Assessment ([NAWQA](https://water.usgs.gov/nawqa/pnsp/usage/maps/county-level/)) Project. Data processing is done and explained in [this notebook](https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Data_Processing_and_Feature_Engineering.ipynb). The classification and prediction is done in [this notebook](https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Classification.ipynb).
 
 ## Slides
 
