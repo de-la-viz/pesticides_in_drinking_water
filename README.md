@@ -1,24 +1,24 @@
 # Pesticides in Drinking Water
 
-A try at predicting violations of drinking water in New England's water systems. In addition, I also try to predict the violations of maximum contaminant levels in New England's water systems by pesticides.  
+The US Environmental Protection Agency (EPA) sets standards for drinking water quality and is responsible for implementation of the Safe Water Drinking Act (SWDA). Annually, numerous water systems detects contaminants above a Maximum Contaminant Level, for instance 3 to 10% of the _community water systems_ (c.f. [Allaire 2018](https://www.pnas.org/content/115/9/2078)). The drinking water quality violations can be dramatic for the served communities. Can we predict their occurrences? Local agency collect water samples and send them to the EPA in case of any violation. The EPA store and share this data in the Safe Drinking Water Information System ([SWDWIS](https://www.epa.gov/enviro/sdwis-model)).
 
-**The procedure and results of this analysis are summarized in [this presentation](https://docs.google.com/presentation/d/1_BFCSApEwgKDsnK_6E4I5ZDO8wfYpLv-QmWbZlTdxt4/edit?usp=sharing).**
+In this project, I ask: **How predictable are drinking water violations in water systems?**
 
+* Which factors are good predictors?
 
+* Is using only SDWIS data sufficient?
 
+* How predictable are specific types of violations? e.g. pesticides
 
+The aim is to predict which water systems are likely to be subject to violations of water quality in a given year. I will favor explanatory approach.
 
-## Data Extraction
+**The procedure and results of this analysis are summarized in [this presentation](https://docs.google.com/presentation/d/1_BFCSApEwgKDsnK_6E4I5ZDO8wfYpLv-QmWbZlTdxt4/edit?usp=sharing)**, also found below.
 
-The data is coming from SDWIS, all the extraction is described in [this notebook](https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Data_Extraction.ipynb).
+## Code
 
-Pesticide use estimates are downloaded from the National Water-Quality Assessment ([NAWQA](https://water.usgs.gov/nawqa/pnsp/usage/maps/county-level/)) Project.
-
-## Data Processing and Feature Engineering
+The data is coming from SDWIS, all the extraction is described in [this notebook](https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Data_Extraction.ipynb). Pesticide use estimates are downloaded from the National Water-Quality Assessment ([NAWQA](https://water.usgs.gov/nawqa/pnsp/usage/maps/county-level/)) Project.
 
 Data processing is done and explained in [this notebook](https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Data_Processing_and_Feature_Engineering.ipynb).
-
-## Classification
 
 The classification and prediction is done in [this notebook](https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Classification.ipynb).
 
