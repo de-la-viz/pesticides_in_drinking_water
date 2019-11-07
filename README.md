@@ -13,7 +13,7 @@ In this project, I ask: **How predictable are drinking water violations in water
 
 The aim is to predict which water systems are likely to be subject to violations of water quality in a given year for New England. I will favor explanatory approach.
 
-**The procedure and results of this analysis are summarized in [this presentation](https://docs.google.com/presentation/d/1_BFCSApEwgKDsnK_6E4I5ZDO8wfYpLv-QmWbZlTdxt4/edit?usp=sharing)**, also found below.
+**The procedure and results are summarized in [this presentation](https://docs.google.com/presentation/d/1_BFCSApEwgKDsnK_6E4I5ZDO8wfYpLv-QmWbZlTdxt4/edit?usp=sharing)**, also found below.
 
 ## Code
 
