@@ -19,7 +19,7 @@ The classifier is trained on data from 2013 to 2015, validated on data from 2016
 
 I complement the SDWIS data with estimated pesticide use by county ([NAWQA](https://water.usgs.gov/nawqa/pnsp/usage/maps/county-level/)), and build two models:  
 
-A) Outcome variable is _had any violation_ 
+A) Outcome variable is _had any violation_   
 B) Outcome variable is _had any pesticide violation_  
 
 ### Conclusion
