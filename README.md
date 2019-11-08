@@ -34,19 +34,19 @@ Too few violations due to the presence of presticides in the drinking water occu
 
 My recommendations are thus that any model trying to predict drinking water quality violations, in order to be successful, should focus on one particular type of violation and complement SDWIS with external contextual data. The model will always be limited by the granularity of the data collection by the EPA (quarterly sampling).  
 
-Ideas of external data sources that can be added are: census data, particularly average income as it is known that poorer communities have more difficulties to maintain their costly water system, and weather data as water run-off are one major cause of water contaminations.  
+Ideas of external data sources that can be added are: census data, particularly average income as it is known that poorer communities have more difficulties in maintaining their costly water system, and weather data as water run-off are one major cause of water contaminations.  
 
 In short, the current model could be used to build a risk exposure map by county of the likelihood of water quality violations occurrences, but it will not be able to predict future violations.  
-
-### Techniques and Python Packages Used
-
-In this project, I could use and train my skills in: supervised learning, data processing and feature engineering, L2 logistic regression, gradient boosting, random forest, reading REST APIs, cross-validation, parameter tuning, classification evaluation metrics, handling of class-imbalance. I used notably those python packages and functions: scikit-learn, pandas, requests, GridSearchCV, SMOTE.  
 
 **The procedure and results are summarized in [this presentation](https://docs.google.com/presentation/d/1_BFCSApEwgKDsnK_6E4I5ZDO8wfYpLv-QmWbZlTdxt4/edit?usp=sharing)**, also found below.
 
 ## Code
 
 The data is coming from SDWIS, all the extraction is described in [this notebook](https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Data_Extraction.ipynb). Pesticide use estimates are downloaded from the National Water-Quality Assessment ([NAWQA](https://water.usgs.gov/nawqa/pnsp/usage/maps/county-level/)) Project. Data processing is done and explained in [this notebook](https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Data_Processing_and_Feature_Engineering.ipynb). The classification and prediction is done in [this notebook](https://github.com/de-la-viz/pesticides_in_drinking_water/blob/master/code/Classification.ipynb).
+
+### Techniques and Python Packages Used
+
+In this project, I could use and train my skills in: supervised learning, data processing and feature engineering, L2 logistic regression, gradient boosting, random forest, reading REST APIs, cross-validation, parameter tuning, classification evaluation metrics and handling of class-imbalance. I used notably those python packages and functions: scikit-learn, pandas, requests, GridSearchCV and SMOTE.  
 
 ## Slides
 
