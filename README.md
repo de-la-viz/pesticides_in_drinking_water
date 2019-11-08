@@ -46,7 +46,8 @@ The data is coming from SDWIS, all the extraction is described in [this notebook
 
 ### Techniques and Python Packages Used
 
-In this project, I could use and train my skills in: supervised learning, data processing and feature engineering, L2 logistic regression, gradient boosting, random forest, reading REST APIs, cross-validation, parameter tuning, classification evaluation metrics and handling of class-imbalance. I used notably those python packages and functions: scikit-learn, pandas, requests, GridSearchCV and SMOTE.  
+In this project, I could use and train my skills in: supervised learning, data processing and feature engineering, L2 logistic regression, gradient boosting, random forest, reading REST APIs, cross-validation, parameter tuning, classification evaluation metrics and handling of class-imbalance.   
+I used notably those python packages and functions: scikit-learn, pandas, requests, GridSearchCV and SMOTE.  
 
 ## Slides
 
