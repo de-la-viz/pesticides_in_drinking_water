@@ -11,18 +11,21 @@ In this project, I ask: **How predictable are drinking water violations in water
 * How predictable are specific types of violations? I will focus on pesticides, because their is a clear causal relationship between pesticide use in crops and pesticide contaminations in drinking water.
 
 The aim is to predict which water systems are likely to be subject to violations of water quality in a given year for New England. The task is a binary classification of water systems:  
+
 0. not likely to have a violation of the drinking water quality this year
 1. likely to have a violation of the drinking water quality this year
 
 The classifier is trained on data from 2013 to 2015, validated on data from 2016 and tested on water quality data from 2017. I will favor explanatory approach.  
 
 I complement the SDWIS data with estimated pesticide use by county ([NAWQA](https://water.usgs.gov/nawqa/pnsp/usage/maps/county-level/)), and build two models:  
+
 A. Outcome variable is had any violation
 B. Outcome variable is had any pesticide violation
 
 ### Conclusion
 
 SDWIS data is not sufficient to predict drinking water quality violations, as it contains few features that are correlated violations occurrences. The performance of the classifier was poor. The most important features to predict the violations (model A) are:  
+
 1. previous occurrences
 2. estimated pesticide use
 3. size of the water system
