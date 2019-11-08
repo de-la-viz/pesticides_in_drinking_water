@@ -32,7 +32,7 @@ SDWIS data is not sufficient to predict drinking water quality violations, as it
 
 Too few violations due to the presence of presticides in the drinking water occurred in New England to run any model (model B).   
 
-My recommendations are thus that any model trying to predict drinking water quality violations, in order to be successful, should focus on one particular type of violation and complement SDWIS with external contextual data. The model will always be limited by the granularity of the data collection by the EPA (quarterly sampling).  
+**My recommendations are thus that any model trying to predict drinking water quality violations, in order to be successful, should focus on one particular type of violation and complement SDWIS with external contextual data. The model will always be limited by the granularity of the data collection by the EPA (quarterly sampling).**  
 
 Ideas of external data sources that can be added are: census data, particularly average income as it is known that poorer communities have more difficulties in maintaining their costly water system, and weather data as water run-off are one major cause of water contaminations.  
 
