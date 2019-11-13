@@ -24,7 +24,7 @@ B) Outcome variable is _had any pesticide violation_
 
 ### Conclusion
 
-SDWIS data is not sufficient to predict drinking water quality violations, as it contains few features that are correlated violations occurrences. The performance of the classifier was poor. The most important features to predict the violations (model A) are:  
+SDWIS data is not sufficient to predict drinking water quality violations, as it contains few features that are correlated  with violations occurrences. The performance of the classifier was poor. The most important features to predict the violations (model A) are:  
 
 1. previous occurrences
 2. estimated pesticide use
