@@ -15,7 +15,7 @@ The aim is to predict which water systems are likely to be subject to violations
 0) not likely to have a violation of the drinking water quality this year
 1) likely to have a violation of the drinking water quality this year
 
-The classifier is trained on data from 2013 to 2015, validated on data from 2016 and tested on water quality data from 2017. I will favor explanatory approach.  
+The classifier is trained on data from 2013 to 2015, validated on data from 2016 and tested on water quality data from 2017. I will favor explanatory approaches.  
 
 I complement the SDWIS data with estimated pesticide use by county ([NAWQA](https://water.usgs.gov/nawqa/pnsp/usage/maps/county-level/)), and build two models:  
 
