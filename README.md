@@ -40,7 +40,7 @@ Too few violations due to the presence of presticides in the drinking water occu
 
 Ideas of external data sources that can be added are: census data, particularly average income as it is known that poorer communities have more difficulties in maintaining their costly water system, and weather data as water run-off are one major cause of water contaminations.  
 
-In short, the current model could be used to build a risk exposure map by county of the likelihood of water quality violations occurrences, but it will not be able to predict future violations.  
+In short, the current model could be used to build a risk exposure map by county of the likelihood of water quality violations occurrences, but it will not be able to predict future violations with great accuracy.  
 
 **The procedure and results are summarized in [this presentation](https://docs.google.com/presentation/d/1_BFCSApEwgKDsnK_6E4I5ZDO8wfYpLv-QmWbZlTdxt4/edit?usp=sharing)**, also found below.
 
@@ -50,7 +50,7 @@ The data is coming from SDWIS, all the extraction is described in [this notebook
 
 ### Techniques and Python Packages Used
 
-In this project, I could use and train my skills in: supervised learning, data processing and feature engineering, L2 logistic regression, gradient boosting, random forest, reading REST APIs, cross-validation, parameter tuning, classification evaluation metrics and handling of class-imbalance.   
+In this project, I could use and train my skills in: supervised learning, data processing and feature engineering, L2 logistic regression, gradient boosting, random forest, querying REST APIs, cross-validation, parameter tuning, classification evaluation metrics and handling of class-imbalance.   
 I used notably those python packages and functions: scikit-learn, pandas, requests, GridSearchCV and SMOTE.  
 
 ## Slides
