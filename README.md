@@ -38,7 +38,7 @@ Too few violations due to the presence of presticides in the drinking water occu
 
 **My recommendations are thus that any model trying to predict drinking water quality violations, in order to be successful, should focus on one particular type of violation and complement SDWIS with external contextual data. The model will always be limited by the granularity of the data collection by the EPA (quarterly sampling).**  
 
-Ideas of external data sources that can be added are: census data, particularly average income as it is known that poorer communities have more difficulties in maintaining their costly water system, and weather data as water run-off are one major cause of water contaminations.  
+Ideas of external data sources that can be added are: census data, particularly average income as it is known that poorer communities have more difficulties in maintaining their costly water system, and weather data as surface runoff is one major cause of water contaminations.  
 
 In short, the current model could be used to build a risk exposure map by county of the likelihood of water quality violations occurrences, but it will not be able to predict future violations with useful accuracy.  
 
